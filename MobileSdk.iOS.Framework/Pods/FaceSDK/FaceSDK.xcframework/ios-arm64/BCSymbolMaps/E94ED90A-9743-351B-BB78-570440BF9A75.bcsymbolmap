@@ -1,0 +1,2977 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk
+iPhoneOS15.5.sdk
+/Users/administratorregula/Library/Developer/Xcode/DerivedData/FaceSDK-fdiibimnvdlefvewtnzejyzdrrfi/Build/Intermediates.noindex/ArchiveIntermediates/FaceSDK/IntermediateBuildFilesPath/FaceSDK.build/Release-iphoneos/FaceSDK.build/DerivedSources/FaceSDK_vers.c
+/Users/administratorregula/regula/DocumentReaderFaceSDK_Git
++[UIImage(RFSBundleLoad) rfs_imageNamed:renderingMode:]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+__OBJC_$_CATEGORY_CLASS_METHODS_UIImage_$_RFSBundleLoad
+__OBJC_$_CATEGORY_UIImage_$_RFSBundleLoad
+Sources/Catergories/Layout/UIImage+RFSBundleLoad.m
+-[RFSLivenessRootPresenter init]
+-[RFSLivenessRootPresenter initWithSessionId:completion:]
+-[RFSLivenessRootPresenter injectView:]
+-[RFSLivenessRootPresenter injectRouter:]
+-[RFSLivenessRootPresenter handleViewWillAppear]
+-[RFSLivenessRootPresenter finishWithResult:]
+___45-[RFSLivenessRootPresenter finishWithResult:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+-[RFSLivenessRootPresenter onLivenessProcessing]
+-[RFSLivenessRootPresenter onLivenessRetryWith:]
+-[RFSLivenessRootPresenter onLivenessFinishWith:]
+-[RFSLivenessRootPresenter processingViewControllerDidClosed:]
+-[RFSLivenessRootPresenter resultsViewControllerDidClosed:]
+-[RFSLivenessRootPresenter resultsViewControllerRetryTapped:]
+-[RFSLivenessRootPresenter sessionId]
+-[RFSLivenessRootPresenter setSessionId:]
+-[RFSLivenessRootPresenter view]
+-[RFSLivenessRootPresenter setView:]
+-[RFSLivenessRootPresenter router]
+-[RFSLivenessRootPresenter setRouter:]
+-[RFSLivenessRootPresenter completion]
+-[RFSLivenessRootPresenter setCompletion:]
+-[RFSLivenessRootPresenter currentResult]
+-[RFSLivenessRootPresenter setCurrentResult:]
+-[RFSLivenessRootPresenter shownLivenessOnce]
+-[RFSLivenessRootPresenter setShownLivenessOnce:]
+-[RFSLivenessRootPresenter .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_CLASSLIST_REFERENCES_$_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.72
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessListener
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessListener
+__OBJC_PROTOCOL_$_RFSLivenessListener
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessListener
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_RFSLivenessProcessingViewControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessProcessingViewControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessProcessingViewControllerDelegate
+__OBJC_PROTOCOL_$_RFSLivenessProcessingViewControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessProcessingViewControllerDelegate
+__OBJC_$_PROTOCOL_REFS_RFSLivenessRetryViewControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessRetryViewControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessRetryViewControllerDelegate
+__OBJC_PROTOCOL_$_RFSLivenessRetryViewControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessRetryViewControllerDelegate
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessRootPresenter
+__OBJC_METACLASS_RO_$_RFSLivenessRootPresenter
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRootPresenter
+_OBJC_IVAR_$_RFSLivenessRootPresenter._shownLivenessOnce
+_OBJC_IVAR_$_RFSLivenessRootPresenter._sessionId
+_OBJC_IVAR_$_RFSLivenessRootPresenter._view
+_OBJC_IVAR_$_RFSLivenessRootPresenter._router
+_OBJC_IVAR_$_RFSLivenessRootPresenter._completion
+_OBJC_IVAR_$_RFSLivenessRootPresenter._currentResult
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRootPresenter
+__OBJC_$_PROP_LIST_RFSLivenessRootPresenter
+__OBJC_CLASS_RO_$_RFSLivenessRootPresenter
+Sources/Modules/UILiveness/Root/RFSLivenessRootPresenter.m
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__45-[RFSLivenessRootPresenter finishWithResult:]_block_invoke
+-[RFSLivenessDetectionConfiguration init]
+-[RFSLivenessDetectionConfiguration initWithCameraToFaceDistance:faceHeight:]
++[RFSLivenessDetectionConfiguration scaledConfiguration]
++[RFSLivenessDetectionConfiguration normalConfiguration]
+-[RFSLivenessDetectionConfiguration faceHeight]
+-[RFSLivenessDetectionConfiguration cameraToFaceDistance]
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_OBJC_SELECTOR_REFERENCES_.8
+__OBJC_$_CLASS_METHODS_RFSLivenessDetectionConfiguration
+__OBJC_$_CLASS_PROP_LIST_RFSLivenessDetectionConfiguration
+__OBJC_METACLASS_RO_$_RFSLivenessDetectionConfiguration
+__OBJC_$_INSTANCE_METHODS_RFSLivenessDetectionConfiguration
+_OBJC_IVAR_$_RFSLivenessDetectionConfiguration._faceHeight
+_OBJC_IVAR_$_RFSLivenessDetectionConfiguration._cameraToFaceDistance
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessDetectionConfiguration
+__OBJC_$_PROP_LIST_RFSLivenessDetectionConfiguration
+__OBJC_CLASS_RO_$_RFSLivenessDetectionConfiguration
+Sources/Modules/UILiveness/Liveness/RFSLivenessDetectionConfiguration.m
+Sources/Modules/UILiveness/Liveness/RFSLivenessDetectionConfiguration.h
+-[RFSBaseConfigurationBuilder init]
++[RFSBaseConfigurationBuilder defaultBuilder]
+-[RFSBaseConfigurationBuilder registerClass:forBaseClass:]
+-[RFSBaseConfigurationBuilder resolveClassForBaseClass:]
+-[RFSBaseConfigurationBuilder resolver]
+-[RFSBaseConfigurationBuilder setResolver:]
+-[RFSBaseConfigurationBuilder .cxx_destruct]
+-[RFSBaseConfiguration initWithBuilder:]
++[RFSBaseConfiguration builderClass]
++[RFSBaseConfiguration defaultConfiguration]
++[RFSBaseConfiguration configurationWithBuilder:]
+-[RFSBaseConfiguration resolveClassForBaseClass:]
+-[RFSBaseConfiguration builder]
+-[RFSBaseConfiguration setBuilder:]
+-[RFSBaseConfiguration .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+__OBJC_$_PROTOCOL_REFS_RFSOverriding
+__OBJC_PROTOCOL_$_RFSOverriding
+__OBJC_LABEL_PROTOCOL_$_RFSOverriding
+__OBJC_PROTOCOL_REFERENCE_$_RFSOverriding
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+__OBJC_$_CLASS_METHODS_RFSBaseConfigurationBuilder
+__OBJC_METACLASS_RO_$_RFSBaseConfigurationBuilder
+__OBJC_$_INSTANCE_METHODS_RFSBaseConfigurationBuilder
+_OBJC_IVAR_$_RFSBaseConfigurationBuilder._resolver
+__OBJC_$_INSTANCE_VARIABLES_RFSBaseConfigurationBuilder
+__OBJC_$_PROP_LIST_RFSBaseConfigurationBuilder
+__OBJC_CLASS_RO_$_RFSBaseConfigurationBuilder
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.74
+__OBJC_$_CLASS_METHODS_RFSBaseConfiguration
+__OBJC_METACLASS_RO_$_RFSBaseConfiguration
+__OBJC_$_INSTANCE_METHODS_RFSBaseConfiguration
+_OBJC_IVAR_$_RFSBaseConfiguration._builder
+__OBJC_$_INSTANCE_VARIABLES_RFSBaseConfiguration
+__OBJC_$_PROP_LIST_RFSBaseConfiguration
+__OBJC_CLASS_RO_$_RFSBaseConfiguration
+Sources/Configuration/RFSBaseConfiguration.m
+Sources/Errors/RFSFaceSDKErrors.m
+-[RFSLivenessResponse init]
++[RFSLivenessResponse new]
+-[RFSLivenessResponse initWithId:status:normalImage:scaledImage:error:]
+-[RFSLivenessResponse description]
+-[RFSLivenessResponse findErrorFromDomain:]
+-[RFSLivenessResponse guid]
+-[RFSLivenessResponse image]
+-[RFSLivenessResponse setImage:]
+-[RFSLivenessResponse liveness]
+-[RFSLivenessResponse setLiveness:]
+-[RFSLivenessResponse error]
+-[RFSLivenessResponse setError:]
+-[RFSLivenessResponse .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+__OBJC_$_CLASS_METHODS_RFSLivenessResponse
+__OBJC_METACLASS_RO_$_RFSLivenessResponse
+__OBJC_$_INSTANCE_METHODS_RFSLivenessResponse
+_OBJC_IVAR_$_RFSLivenessResponse._guid
+_OBJC_IVAR_$_RFSLivenessResponse._image
+_OBJC_IVAR_$_RFSLivenessResponse._liveness
+_OBJC_IVAR_$_RFSLivenessResponse._error
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessResponse
+__OBJC_$_PROP_LIST_RFSLivenessResponse
+__OBJC_CLASS_RO_$_RFSLivenessResponse
+Sources/Liveness/RFSLivenessResponse.m
+Sources/Liveness/RFSLivenessResponse.h
+llvm.loop.mustprogress
+-[RFSFaceCaptureResponse init]
++[RFSFaceCaptureResponse new]
+-[RFSFaceCaptureResponse initWithImage:error:]
+-[RFSFaceCaptureResponse image]
+-[RFSFaceCaptureResponse setImage:]
+-[RFSFaceCaptureResponse error]
+-[RFSFaceCaptureResponse setError:]
+-[RFSFaceCaptureResponse .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSFaceCaptureResponse
+__OBJC_METACLASS_RO_$_RFSFaceCaptureResponse
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureResponse
+_OBJC_IVAR_$_RFSFaceCaptureResponse._image
+_OBJC_IVAR_$_RFSFaceCaptureResponse._error
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureResponse
+__OBJC_$_PROP_LIST_RFSFaceCaptureResponse
+__OBJC_CLASS_RO_$_RFSFaceCaptureResponse
+Sources/Services/FaceCapture/RFSFaceCaptureResponse.m
+Sources/Services/FaceCapture/RFSFaceCaptureResponse.h
+-[RFSMatchFacesAPIRequest initWithImages:thumbnails:metadata:]
+-[RFSMatchFacesAPIRequest path]
+-[RFSMatchFacesAPIRequest method]
+-[RFSMatchFacesAPIRequest task]
+-[RFSMatchFacesAPIRequest images]
+-[RFSMatchFacesAPIRequest setImages:]
+-[RFSMatchFacesAPIRequest thumbnails]
+-[RFSMatchFacesAPIRequest setThumbnails:]
+-[RFSMatchFacesAPIRequest metadata]
+-[RFSMatchFacesAPIRequest setMetadata:]
+-[RFSMatchFacesAPIRequest .cxx_destruct]
+_OBJC_IVAR_$_RFSMatchFacesAPIRequest._images
+_OBJC_IVAR_$_RFSMatchFacesAPIRequest._thumbnails
+_OBJC_IVAR_$_RFSMatchFacesAPIRequest._metadata
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_CLASSLIST_REFERENCES_$_.75
+_OBJC_SELECTOR_REFERENCES_.77
+__OBJC_METACLASS_RO_$_RFSMatchFacesAPIRequest
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesAPIRequest
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesAPIRequest
+__OBJC_$_PROP_LIST_RFSMatchFacesAPIRequest
+__OBJC_CLASS_RO_$_RFSMatchFacesAPIRequest
+Sources/Services/API/Requests/MatchFaces/RFSMatchFacesAPIRequest.m
+-[RFSVisionLandmark init]
+-[RFSVisionLandmark initWithType:pointsInImageSpace:]
+-[RFSVisionLandmark description]
+-[RFSVisionLandmark typeName]
+-[RFSVisionLandmark landrmarkType]
+-[RFSVisionLandmark pointsInImageSpace]
+-[RFSVisionLandmark .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_SELECTOR_REFERENCES_.24
+__OBJC_METACLASS_RO_$_RFSVisionLandmark
+__OBJC_$_INSTANCE_METHODS_RFSVisionLandmark
+_OBJC_IVAR_$_RFSVisionLandmark._landrmarkType
+_OBJC_IVAR_$_RFSVisionLandmark._pointsInImageSpace
+__OBJC_$_INSTANCE_VARIABLES_RFSVisionLandmark
+__OBJC_$_PROP_LIST_RFSVisionLandmark
+__OBJC_CLASS_RO_$_RFSVisionLandmark
+Sources/Services/Vision/RFSVisionLandmark.m
+Sources/Services/Vision/RFSVisionLandmark.h
+-[RFSMatchFacesResponse init]
++[RFSMatchFacesResponse new]
+-[RFSMatchFacesResponse initWithResults:detections:matchedFaces:unmatchedFaces:error:]
+-[RFSMatchFacesResponse initWithError:]
+-[RFSMatchFacesResponse description]
+-[RFSMatchFacesResponse error]
+-[RFSMatchFacesResponse results]
+-[RFSMatchFacesResponse detections]
+-[RFSMatchFacesResponse matchedFaces]
+-[RFSMatchFacesResponse setMatchedFaces:]
+-[RFSMatchFacesResponse unmatchedFaces]
+-[RFSMatchFacesResponse setUnmatchedFaces:]
+-[RFSMatchFacesResponse .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSMatchFacesResponse
+__OBJC_METACLASS_RO_$_RFSMatchFacesResponse
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesResponse
+_OBJC_IVAR_$_RFSMatchFacesResponse._error
+_OBJC_IVAR_$_RFSMatchFacesResponse._results
+_OBJC_IVAR_$_RFSMatchFacesResponse._detections
+_OBJC_IVAR_$_RFSMatchFacesResponse._matchedFaces
+_OBJC_IVAR_$_RFSMatchFacesResponse._unmatchedFaces
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesResponse
+__OBJC_$_PROP_LIST_RFSMatchFacesResponse
+__OBJC_CLASS_RO_$_RFSMatchFacesResponse
+Sources/MatchFaces/Response/RFSMatchFacesResponse.m
+Sources/MatchFaces/Response/RFSMatchFacesResponse.h
+-[RFSMatchFacesDetection initWithImageIndex:image:faces:error:]
+-[RFSMatchFacesDetection description]
+-[RFSMatchFacesDetection imageIndex]
+-[RFSMatchFacesDetection image]
+-[RFSMatchFacesDetection faces]
+-[RFSMatchFacesDetection error]
+-[RFSMatchFacesDetection .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.17
+__OBJC_METACLASS_RO_$_RFSMatchFacesDetection
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesDetection
+_OBJC_IVAR_$_RFSMatchFacesDetection._imageIndex
+_OBJC_IVAR_$_RFSMatchFacesDetection._image
+_OBJC_IVAR_$_RFSMatchFacesDetection._faces
+_OBJC_IVAR_$_RFSMatchFacesDetection._error
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesDetection
+__OBJC_$_PROP_LIST_RFSMatchFacesDetection
+__OBJC_CLASS_RO_$_RFSMatchFacesDetection
+Sources/MatchFaces/Response/RFSMatchFacesDetection.m
+Sources/MatchFaces/Response/RFSMatchFacesDetection.h
+-[RFSLivenessRootViewController initWithPresenter:]
+-[RFSLivenessRootViewController loadView]
+-[RFSLivenessRootViewController viewWillAppear:]
+-[RFSLivenessRootViewController presenter]
+-[RFSLivenessRootViewController setPresenter:]
+-[RFSLivenessRootViewController .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_OBJC_IVAR_$_RFSLivenessRootViewController._presenter
+_OBJC_CLASSLIST_REFERENCES_$_.3
+__OBJC_METACLASS_RO_$_RFSLivenessRootViewController
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRootViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRootViewController
+__OBJC_$_PROP_LIST_RFSLivenessRootViewController
+__OBJC_CLASS_RO_$_RFSLivenessRootViewController
+Sources/Modules/UILiveness/Root/RFSLivenessRootViewController.m
+-[RFSFaceCaptureBuilder init]
+-[RFSFaceCaptureBuilder initWithConfiguration:camera:apiService:]
+-[RFSFaceCaptureBuilder build:]
+-[RFSFaceCaptureBuilder view]
+-[RFSFaceCaptureBuilder setView:]
+-[RFSFaceCaptureBuilder onCapture]
+-[RFSFaceCaptureBuilder setOnCapture:]
+-[RFSFaceCaptureBuilder configuration]
+-[RFSFaceCaptureBuilder setConfiguration:]
+-[RFSFaceCaptureBuilder camera]
+-[RFSFaceCaptureBuilder setCamera:]
+-[RFSFaceCaptureBuilder apiService]
+-[RFSFaceCaptureBuilder setApiService:]
+-[RFSFaceCaptureBuilder .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+__OBJC_METACLASS_RO_$_RFSFaceCaptureBuilder
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureBuilder
+_OBJC_IVAR_$_RFSFaceCaptureBuilder._view
+_OBJC_IVAR_$_RFSFaceCaptureBuilder._onCapture
+_OBJC_IVAR_$_RFSFaceCaptureBuilder._configuration
+_OBJC_IVAR_$_RFSFaceCaptureBuilder._camera
+_OBJC_IVAR_$_RFSFaceCaptureBuilder._apiService
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureBuilder
+__OBJC_$_PROP_LIST_RFSFaceCaptureBuilder
+__OBJC_CLASS_RO_$_RFSFaceCaptureBuilder
+Sources/Modules/UIFaceCapture/RFSFaceCaptureBuilder.m
+Sources/Modules/UIFaceCapture/RFSFaceCaptureBuilder.h
+-[RFSMatchFacesSimilarityThresholdSplit initWithSimilarityThreshold:matchedFaces:unmatchedFaces:]
++[RFSMatchFacesSimilarityThresholdSplit splitPairs:bySimilarityThreshold:]
+-[RFSMatchFacesSimilarityThresholdSplit similarityThreshold]
+-[RFSMatchFacesSimilarityThresholdSplit setSimilarityThreshold:]
+-[RFSMatchFacesSimilarityThresholdSplit matchedFaces]
+-[RFSMatchFacesSimilarityThresholdSplit unmatchedFaces]
+-[RFSMatchFacesSimilarityThresholdSplit .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.14
+__OBJC_$_CLASS_METHODS_RFSMatchFacesSimilarityThresholdSplit
+__OBJC_METACLASS_RO_$_RFSMatchFacesSimilarityThresholdSplit
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesSimilarityThresholdSplit
+_OBJC_IVAR_$_RFSMatchFacesSimilarityThresholdSplit._similarityThreshold
+_OBJC_IVAR_$_RFSMatchFacesSimilarityThresholdSplit._matchedFaces
+_OBJC_IVAR_$_RFSMatchFacesSimilarityThresholdSplit._unmatchedFaces
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesSimilarityThresholdSplit
+__OBJC_$_PROP_LIST_RFSMatchFacesSimilarityThresholdSplit
+__OBJC_CLASS_RO_$_RFSMatchFacesSimilarityThresholdSplit
+Sources/MatchFaces/RFSMatchFacesSimilarityThresholdSplit.m
+Sources/MatchFaces/RFSMatchFacesSimilarityThresholdSplit.h
+-[RFSLivenessPresenterImpl init]
+-[RFSLivenessPresenterImpl initWithListener:configuration:sessionId:camera:detectorService:videoRecorderService:livenessService:livenessErrorMapper:]
+-[RFSLivenessPresenterImpl dealloc]
+-[RFSLivenessPresenterImpl updateState:]
+-[RFSLivenessPresenterImpl injectView:]
+-[RFSLivenessPresenterImpl injectRouter:]
+-[RFSLivenessPresenterImpl formatControllerForPosition:]
+-[RFSLivenessPresenterImpl handleViewDidLoad]
+___45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke
+___45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke_2
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+___45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke.182
+___45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke.192
+-[RFSLivenessPresenterImpl handleViewWillDisappear]
+-[RFSLivenessPresenterImpl handleViewWillAppear]
+___48-[RFSLivenessPresenterImpl handleViewWillAppear]_block_invoke
+-[RFSLivenessPresenterImpl handleApplicationWillResignActive]
+-[RFSLivenessPresenterImpl handleApplicationonDidBecomeActive]
+-[RFSLivenessPresenterImpl updateViewForState:]
+-[RFSLivenessPresenterImpl handleDetectionFrameChanged:]
+-[RFSLivenessPresenterImpl handleDetectionPathChanged:]
+-[RFSLivenessPresenterImpl handleCameraPreviewViewFrameChanged:]
+-[RFSLivenessPresenterImpl handleTorchButtonPress]
+-[RFSLivenessPresenterImpl handleCloseButtonPress]
+-[RFSLivenessPresenterImpl handleChangeCameraPress]
+-[RFSLivenessPresenterImpl handleOrientationChanged]
+-[RFSLivenessPresenterImpl stopVideoRecordingWithName:]
+___55-[RFSLivenessPresenterImpl stopVideoRecordingWithName:]_block_invoke
+-[RFSLivenessPresenterImpl updateDetectorInputParameters]
+-[RFSLivenessPresenterImpl startSetDefaultHintTimer]
+-[RFSLivenessPresenterImpl setDefaultHint]
+-[RFSLivenessPresenterImpl finishLivenessWithResponse:]
+-[RFSLivenessPresenterImpl ovalSizeForFaceHeight:previewSize:]
+-[RFSLivenessPresenterImpl faceCaptureServiceDidFindFace:]
+-[RFSLivenessPresenterImpl faceCaptureServiceDidLostFace:]
+-[RFSLivenessPresenterImpl faceCaptureService:didProvideHint:]
+___62-[RFSLivenessPresenterImpl faceCaptureService:didProvideHint:]_block_invoke
+___copy_helper_block_e8_32s40w
+___destroy_helper_block_e8_32s40w
+___62-[RFSLivenessPresenterImpl faceCaptureService:didProvideHint:]_block_invoke.343
+-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]
+___62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke
+___62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke.366
+___62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke_2
+___62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke_3
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[RFSLivenessPresenterImpl resetLivenessProcessing]
+-[RFSLivenessPresenterImpl livenessService:didFinish:]
+-[RFSLivenessPresenterImpl mapLivenessServiceResult:]
+-[RFSLivenessPresenterImpl view]
+-[RFSLivenessPresenterImpl setView:]
+-[RFSLivenessPresenterImpl router]
+-[RFSLivenessPresenterImpl setRouter:]
+-[RFSLivenessPresenterImpl listener]
+-[RFSLivenessPresenterImpl setListener:]
+-[RFSLivenessPresenterImpl configuration]
+-[RFSLivenessPresenterImpl setConfiguration:]
+-[RFSLivenessPresenterImpl sessionId]
+-[RFSLivenessPresenterImpl setSessionId:]
+-[RFSLivenessPresenterImpl hintDispatcher]
+-[RFSLivenessPresenterImpl setHintDispatcher:]
+-[RFSLivenessPresenterImpl defaultHintTimerRestarter]
+-[RFSLivenessPresenterImpl setDefaultHintTimerRestarter:]
+-[RFSLivenessPresenterImpl defaultHintTimer]
+-[RFSLivenessPresenterImpl setDefaultHintTimer:]
+-[RFSLivenessPresenterImpl camera]
+-[RFSLivenessPresenterImpl setCamera:]
+-[RFSLivenessPresenterImpl frontFormatController]
+-[RFSLivenessPresenterImpl setFrontFormatController:]
+-[RFSLivenessPresenterImpl backFormatController]
+-[RFSLivenessPresenterImpl setBackFormatController:]
+-[RFSLivenessPresenterImpl cameraFormatResolver]
+-[RFSLivenessPresenterImpl setCameraFormatResolver:]
+-[RFSLivenessPresenterImpl validationOvalSizeForScaledImage]
+-[RFSLivenessPresenterImpl setValidationOvalSizeForScaledImage:]
+-[RFSLivenessPresenterImpl displayOvalSizeForScaledImage]
+-[RFSLivenessPresenterImpl setDisplayOvalSizeForScaledImage:]
+-[RFSLivenessPresenterImpl validationOvalSizeForNormalImage]
+-[RFSLivenessPresenterImpl setValidationOvalSizeForNormalImage:]
+-[RFSLivenessPresenterImpl displayOvalSizeForNormalImage]
+-[RFSLivenessPresenterImpl setDisplayOvalSizeForNormalImage:]
+-[RFSLivenessPresenterImpl detectorService]
+-[RFSLivenessPresenterImpl setDetectorService:]
+-[RFSLivenessPresenterImpl videoRecorderService]
+-[RFSLivenessPresenterImpl setVideoRecorderService:]
+-[RFSLivenessPresenterImpl livenessService]
+-[RFSLivenessPresenterImpl setLivenessService:]
+-[RFSLivenessPresenterImpl livenessErrorMapper]
+-[RFSLivenessPresenterImpl setLivenessErrorMapper:]
+-[RFSLivenessPresenterImpl state]
+-[RFSLivenessPresenterImpl detectionFrame]
+-[RFSLivenessPresenterImpl setDetectionFrame:]
+-[RFSLivenessPresenterImpl path]
+-[RFSLivenessPresenterImpl setPath:]
+-[RFSLivenessPresenterImpl imageFrame]
+-[RFSLivenessPresenterImpl setImageFrame:]
+-[RFSLivenessPresenterImpl .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_CLASSLIST_REFERENCES_$_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+___block_descriptor_80_e8_32s40s_e5_v8?0l
+___block_descriptor_40_e8_32w_e111_v56?0"RFSLivenessCameraFormatResolver"8"RFSLivenessResolvedCameraFormat"16{CGRect={CGPoint=dd}{CGSize=dd}}24l
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+___block_descriptor_40_e8_32w_e20_v16?0"RGLCCamera"8l
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_CLASSLIST_REFERENCES_$_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+___block_descriptor_40_e8_32w_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.258
+___block_descriptor_48_e8_32s40s_e15_v16?0"NSURL"8l
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_CLASSLIST_REFERENCES_$_.288
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_SELECTOR_REFERENCES_.294
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.322
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_CLASSLIST_REFERENCES_$_.325
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_CLASSLIST_REFERENCES_$_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.338
+___block_descriptor_48_e8_32s40w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.340
+_OBJC_SELECTOR_REFERENCES_.342
+___block_descriptor_40_e8_32w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+___block_descriptor_48_e8_32s40w_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.363
+___block_descriptor_32_e8_v12?0B8l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.370
+_OBJC_SELECTOR_REFERENCES_.378
+_OBJC_SELECTOR_REFERENCES_.380
+___block_descriptor_40_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.382
+_OBJC_SELECTOR_REFERENCES_.386
+_OBJC_SELECTOR_REFERENCES_.388
+_OBJC_SELECTOR_REFERENCES_.392
+_OBJC_SELECTOR_REFERENCES_.396
+_OBJC_SELECTOR_REFERENCES_.398
+_OBJC_SELECTOR_REFERENCES_.402
+_OBJC_SELECTOR_REFERENCES_.404
+_OBJC_SELECTOR_REFERENCES_.406
+_OBJC_SELECTOR_REFERENCES_.408
+_OBJC_SELECTOR_REFERENCES_.412
+_OBJC_SELECTOR_REFERENCES_.414
+_OBJC_SELECTOR_REFERENCES_.416
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_CLASSLIST_REFERENCES_$_.419
+_OBJC_SELECTOR_REFERENCES_.421
+_OBJC_SELECTOR_REFERENCES_.423
+_OBJC_SELECTOR_REFERENCES_.425
+_OBJC_SELECTOR_REFERENCES_.427
+_OBJC_SELECTOR_REFERENCES_.429
+__OBJC_$_PROTOCOL_REFS_RFSFaceCaptureDetectorDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSFaceCaptureDetectorDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSFaceCaptureDetectorDelegate
+__OBJC_PROTOCOL_$_RFSFaceCaptureDetectorDelegate
+__OBJC_LABEL_PROTOCOL_$_RFSFaceCaptureDetectorDelegate
+__OBJC_$_PROTOCOL_REFS_RFSLivenessServiceDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_RFSLivenessServiceDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessServiceDelegate
+__OBJC_PROTOCOL_$_RFSLivenessServiceDelegate
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessServiceDelegate
+__OBJC_$_PROTOCOL_REFS_RFSLivenessPresenter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessPresenter
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessPresenter
+__OBJC_PROTOCOL_$_RFSLivenessPresenter
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessPresenter
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessPresenterImpl
+__OBJC_METACLASS_RO_$_RFSLivenessPresenterImpl
+__OBJC_$_INSTANCE_METHODS_RFSLivenessPresenterImpl
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._view
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._router
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._listener
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._configuration
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._sessionId
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._hintDispatcher
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._defaultHintTimerRestarter
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._defaultHintTimer
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._camera
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._frontFormatController
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._backFormatController
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._cameraFormatResolver
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._detectorService
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._videoRecorderService
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._livenessService
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._livenessErrorMapper
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._state
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._path
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._validationOvalSizeForScaledImage
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._displayOvalSizeForScaledImage
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._validationOvalSizeForNormalImage
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._displayOvalSizeForNormalImage
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._detectionFrame
+_OBJC_IVAR_$_RFSLivenessPresenterImpl._imageFrame
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessPresenterImpl
+__OBJC_$_PROP_LIST_RFSLivenessPresenterImpl
+__OBJC_CLASS_RO_$_RFSLivenessPresenterImpl
+Sources/Modules/UILiveness/Liveness/RFSLivenessPresenterImpl.m
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke_3
+__62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke_2
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/dispatch/queue.h
+__62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke.366
+__62-[RFSLivenessPresenterImpl faceCaptureService:didCaptureFace:]_block_invoke
+__62-[RFSLivenessPresenterImpl faceCaptureService:didProvideHint:]_block_invoke.343
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32s40w
+__62-[RFSLivenessPresenterImpl faceCaptureService:didProvideHint:]_block_invoke
+__55-[RFSLivenessPresenterImpl stopVideoRecordingWithName:]_block_invoke
+__48-[RFSLivenessPresenterImpl handleViewWillAppear]_block_invoke
+__45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke.192
+__45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke.182
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke_2
+__45-[RFSLivenessPresenterImpl handleViewDidLoad]_block_invoke
+-[RFSFaceCaptureDetectorFace init]
+-[RFSFaceCaptureDetectorFace initWithFaceId:image:depthData:]
+-[RFSFaceCaptureDetectorFace faceId]
+-[RFSFaceCaptureDetectorFace image]
+-[RFSFaceCaptureDetectorFace depthData]
+-[RFSFaceCaptureDetectorFace .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSFaceCaptureDetectorFace
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureDetectorFace
+_OBJC_IVAR_$_RFSFaceCaptureDetectorFace._faceId
+_OBJC_IVAR_$_RFSFaceCaptureDetectorFace._image
+_OBJC_IVAR_$_RFSFaceCaptureDetectorFace._depthData
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureDetectorFace
+__OBJC_$_PROP_LIST_RFSFaceCaptureDetectorFace
+__OBJC_CLASS_RO_$_RFSFaceCaptureDetectorFace
+Sources/Services/FaceDetector/RFSFaceCaptureDetectorFace.m
+Sources/Services/FaceDetector/RFSFaceCaptureDetectorFace.h
+-[UIView(RFSLayout) rfs_addToView:constraints:]
+-[UIView(RFSLayout) rfs_addToViewEdges:insets:]
+-[UIView(RFSLayout) rfs_addToViewEdges:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIView_$_RFSLayout
+__OBJC_$_CATEGORY_UIView_$_RFSLayout
+Sources/Catergories/Layout/UIView+RFSLayout.m
+-[RFSOverlayFaceView init]
+-[RFSOverlayFaceView layoutSubviews]
+-[RFSOverlayFaceView ovalLayer]
+-[RFSOverlayFaceView setOvalLayer:]
+-[RFSOverlayFaceView ovalPath]
+-[RFSOverlayFaceView setOvalPath:]
+-[RFSOverlayFaceView ovalFrame]
+-[RFSOverlayFaceView setOvalFrame:]
+-[RFSOverlayFaceView maskLayer]
+-[RFSOverlayFaceView setMaskLayer:]
+-[RFSOverlayFaceView .cxx_destruct]
+_OBJC_IVAR_$_RFSOverlayFaceView._ovalLayer
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_IVAR_$_RFSOverlayFaceView._maskLayer
+_OBJC_IVAR_$_RFSOverlayFaceView._ovalFrame
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_IVAR_$_RFSOverlayFaceView._ovalPath
+__OBJC_METACLASS_RO_$_RFSOverlayFaceView
+__OBJC_$_INSTANCE_METHODS_RFSOverlayFaceView
+__OBJC_$_INSTANCE_VARIABLES_RFSOverlayFaceView
+__OBJC_$_PROP_LIST_RFSOverlayFaceView
+__OBJC_CLASS_RO_$_RFSOverlayFaceView
+Sources/Modules/UIFaceCapture/Content/RFSOverlayFaceView.m
+Sources/Modules/UIFaceCapture/Content/RFSOverlayFaceView.h
+-[RFSEnvironmentMetadata sdkBundle]
+-[RFSEnvironmentMetadata json]
+-[RFSEnvironmentMetadata locationJSON]
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_CLASSLIST_REFERENCES_$_.49
+__OBJC_METACLASS_RO_$_RFSEnvironmentMetadata
+__OBJC_$_INSTANCE_METHODS_RFSEnvironmentMetadata
+__OBJC_CLASS_RO_$_RFSEnvironmentMetadata
+Sources/Core/RFSEnvironmentMetadata.m
++[RFSErrorFactory makeLivenessError:]
++[RFSErrorFactory makeLivenessError:underlyingError:]
++[RFSErrorFactory makeFaceCaptureError:]
++[RFSErrorFactory makeMatchFacesError:]
++[RFSErrorFactory makeMatchFacesError:underlyingError:]
++[RFSErrorFactory stringFromLivenessError:]
++[RFSErrorFactory enumLabelFromLivenessError:]
++[RFSErrorFactory stringFromFaceCaptureError:]
++[RFSErrorFactory enumLabelFromFaceCaptureError:]
++[RFSErrorFactory stringFromMatchFacesError:]
++[RFSErrorFactory enumLabelFromMatchFacesError:]
+_OBJC_CLASSLIST_REFERENCES_$_.16
+__OBJC_$_CLASS_METHODS_RFSErrorFactory
+__OBJC_METACLASS_RO_$_RFSErrorFactory
+__OBJC_CLASS_RO_$_RFSErrorFactory
+Sources/Errors/RFSErrorFactory.m
+-[RFSLivenessRouterImpl init]
+-[RFSLivenessRouterImpl initWithView:presenter:transitionAnimated:]
+-[RFSLivenessRouterImpl revert]
+-[RFSLivenessRouterImpl view]
+-[RFSLivenessRouterImpl setView:]
+-[RFSLivenessRouterImpl presenter]
+-[RFSLivenessRouterImpl setPresenter:]
+-[RFSLivenessRouterImpl isTransitionAnimated]
+-[RFSLivenessRouterImpl setTransitionAnimated:]
+-[RFSLivenessRouterImpl .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_RFSLivenessRouter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessRouter
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessRouter
+__OBJC_PROTOCOL_$_RFSLivenessRouter
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessRouter
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessRouterImpl
+__OBJC_METACLASS_RO_$_RFSLivenessRouterImpl
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRouterImpl
+_OBJC_IVAR_$_RFSLivenessRouterImpl._transitionAnimated
+_OBJC_IVAR_$_RFSLivenessRouterImpl._view
+_OBJC_IVAR_$_RFSLivenessRouterImpl._presenter
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRouterImpl
+__OBJC_$_PROP_LIST_RFSLivenessRouterImpl
+__OBJC_CLASS_RO_$_RFSLivenessRouterImpl
+Sources/Modules/UILiveness/Liveness/RFSLivenessRouterImpl.m
+-[RFSLivenessViewController prefersStatusBarHidden]
+-[RFSLivenessViewController supportedInterfaceOrientations]
+-[RFSLivenessViewController initWithPresenter:]
+-[RFSLivenessViewController loadView]
+-[RFSLivenessViewController viewDidLoad]
+-[RFSLivenessViewController viewWillAppear:]
+-[RFSLivenessViewController viewDidAppear:]
+-[RFSLivenessViewController viewWillDisappear:]
+-[RFSLivenessViewController viewDidDisappear:]
+-[RFSLivenessViewController viewDidLayoutSubviews]
+-[RFSLivenessViewController onTorchButtonPress:]
+-[RFSLivenessViewController onCloseButtonPress:]
+-[RFSLivenessViewController onSwitchCameraButtonPress:]
+-[RFSLivenessViewController onOrientationChange]
+-[RFSLivenessViewController onApplicationWillResignActive]
+-[RFSLivenessViewController onApplicationDidBecomeActive]
+-[RFSLivenessViewController setCameraPreviewView:]
+-[RFSLivenessViewController displayFaceCaptureState:]
+___53-[RFSLivenessViewController displayFaceCaptureState:]_block_invoke
+-[RFSLivenessViewController displayHint:]
+-[RFSLivenessViewController displayTorchState:]
+-[RFSLivenessViewController displayFrontLight:]
+-[RFSLivenessViewController updateValidationOvalSize:displayOvalSize:]
+-[RFSLivenessViewController updateCameraSwitchButtonHidden:]
+-[RFSLivenessViewController updateTorchButtonHidden:]
+-[RFSLivenessViewController updateCloseButtonHidden:]
+-[RFSLivenessViewController checkDefaultBrighnessLevel]
+-[RFSLivenessViewController presenter]
+-[RFSLivenessViewController setPresenter:]
+-[RFSLivenessViewController contentView]
+-[RFSLivenessViewController setContentView:]
+-[RFSLivenessViewController currentBrightnessLevel]
+-[RFSLivenessViewController setCurrentBrightnessLevel:]
+-[RFSLivenessViewController .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessViewController._presenter
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_IVAR_$_RFSLivenessViewController._contentView
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_CLASSLIST_REFERENCES_$_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+___block_descriptor_32_e23_v16?0"UIAlertAction"8l
+_OBJC_CLASSLIST_REFERENCES_$_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_CLASSLIST_REFERENCES_$_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_CLASSLIST_REFERENCES_$_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_IVAR_$_RFSLivenessViewController._currentBrightnessLevel
+__OBJC_$_PROTOCOL_REFS_RFSLivenessView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSLivenessView
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSLivenessView
+__OBJC_PROTOCOL_$_RFSLivenessView
+__OBJC_LABEL_PROTOCOL_$_RFSLivenessView
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessViewController
+__OBJC_METACLASS_RO_$_RFSLivenessViewController
+__OBJC_$_INSTANCE_METHODS_RFSLivenessViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessViewController
+__OBJC_$_PROP_LIST_RFSLivenessViewController
+__OBJC_CLASS_RO_$_RFSLivenessViewController
+Sources/Modules/UILiveness/Liveness/RFSLivenessViewController.m
+__53-[RFSLivenessViewController displayFaceCaptureState:]_block_invoke
+-[RFSAPIRequestTarget baseURL]
+-[RFSAPIRequestTarget path]
+-[RFSAPIRequestTarget urlParameters]
+-[RFSAPIRequestTarget method]
+-[RFSAPIRequestTarget task]
+-[RFSAPIRequestTarget headers]
+-[RFSAPIRequestTarget .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_RGLCProviderTarget
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RGLCProviderTarget
+__OBJC_$_PROP_LIST_RGLCProviderTarget
+__OBJC_$_PROTOCOL_METHOD_TYPES_RGLCProviderTarget
+__OBJC_PROTOCOL_$_RGLCProviderTarget
+__OBJC_LABEL_PROTOCOL_$_RGLCProviderTarget
+__OBJC_CLASS_PROTOCOLS_$_RFSAPIRequestTarget
+__OBJC_METACLASS_RO_$_RFSAPIRequestTarget
+__OBJC_$_INSTANCE_METHODS_RFSAPIRequestTarget
+_OBJC_IVAR_$_RFSAPIRequestTarget._path
+_OBJC_IVAR_$_RFSAPIRequestTarget._urlParameters
+_OBJC_IVAR_$_RFSAPIRequestTarget._method
+_OBJC_IVAR_$_RFSAPIRequestTarget._task
+_OBJC_IVAR_$_RFSAPIRequestTarget._headers
+__OBJC_$_INSTANCE_VARIABLES_RFSAPIRequestTarget
+__OBJC_$_PROP_LIST_RFSAPIRequestTarget
+__OBJC_CLASS_RO_$_RFSAPIRequestTarget
+Sources/Services/API/Requests/RFSAPIRequestTarget.m
+-[RFSLivenessProcessingViewController supportedInterfaceOrientations]
+-[RFSLivenessProcessingViewController loadView]
+-[RFSLivenessProcessingViewController viewDidLoad]
+-[RFSLivenessProcessingViewController onCloseButtonPress:]
+-[RFSLivenessProcessingViewController delegate]
+-[RFSLivenessProcessingViewController setDelegate:]
+-[RFSLivenessProcessingViewController contentView]
+-[RFSLivenessProcessingViewController setContentView:]
+-[RFSLivenessProcessingViewController .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessProcessingViewController._contentView
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_IVAR_$_RFSLivenessProcessingViewController._delegate
+__OBJC_METACLASS_RO_$_RFSLivenessProcessingViewController
+__OBJC_$_INSTANCE_METHODS_RFSLivenessProcessingViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessProcessingViewController
+__OBJC_$_PROP_LIST_RFSLivenessProcessingViewController
+__OBJC_CLASS_RO_$_RFSLivenessProcessingViewController
+Sources/Modules/UILiveness/Processing/RFSLivenessProcessingViewController.m
+Sources/Modules/UILiveness/Processing/RFSLivenessProcessingViewController.h
+-[RFSLivenessFaceValidatorService validateFace:innerPoinstRadiusScale:]
+-[RFSLivenessFaceValidatorService detectionFacePath]
+-[RFSLivenessFaceValidatorService setDetectionFacePath:]
+-[RFSLivenessFaceValidatorService detectionFaceRect]
+-[RFSLivenessFaceValidatorService setDetectionFaceRect:]
+-[RFSLivenessFaceValidatorService frameRect]
+-[RFSLivenessFaceValidatorService setFrameRect:]
+-[RFSLivenessFaceValidatorService .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+__OBJC_$_PROTOCOL_REFS_RFSFaceValidatorService
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSFaceValidatorService
+__OBJC_$_PROP_LIST_RFSFaceValidatorService
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSFaceValidatorService
+__OBJC_PROTOCOL_$_RFSFaceValidatorService
+__OBJC_LABEL_PROTOCOL_$_RFSFaceValidatorService
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessFaceValidatorService
+__OBJC_METACLASS_RO_$_RFSLivenessFaceValidatorService
+__OBJC_$_INSTANCE_METHODS_RFSLivenessFaceValidatorService
+_OBJC_IVAR_$_RFSLivenessFaceValidatorService._detectionFacePath
+_OBJC_IVAR_$_RFSLivenessFaceValidatorService._detectionFaceRect
+_OBJC_IVAR_$_RFSLivenessFaceValidatorService._frameRect
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessFaceValidatorService
+__OBJC_$_PROP_LIST_RFSLivenessFaceValidatorService
+__OBJC_CLASS_RO_$_RFSLivenessFaceValidatorService
+Sources/Services/FaceDetector/RFSFaceValidator/RFSLivenessFaceValidatorService.m
+Sources/Services/FaceDetector/RFSFaceValidator/RFSLivenessFaceValidatorService.h
+-[RFSAutoFocusLayer initWithCenter:]
+-[RFSAutoFocusLayer prepareLayer:]
+-[RFSAutoFocusLayer calculatePath:centerPoint:]
+-[RFSAutoFocusLayer animationStart:]
+-[RFSAutoFocusLayer opacityAnimation]
+-[RFSAutoFocusLayer scaleAnimation:]
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_CLASSLIST_REFERENCES_$_.54
+__OBJC_METACLASS_RO_$_RFSAutoFocusLayer
+__OBJC_$_INSTANCE_METHODS_RFSAutoFocusLayer
+__OBJC_CLASS_RO_$_RFSAutoFocusLayer
+Sources/Views/CameraFocusView/RFSAutoFocusLayer.m
+-[NSNumber(RFSCGFloatValue) rfs_cgFloatValue]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSNumber_$_RFSCGFloatValue
+__OBJC_$_PROP_LIST_NSNumber_$_RFSCGFloatValue
+__OBJC_$_CATEGORY_NSNumber_$_RFSCGFloatValue
+Sources/Catergories/NSNumber+RFSCGFloatValue.m
+Sources/Core/RFSImageType.m
+RFSImageTypeHasType
+-[RFSMatchFacesRequest init]
++[RFSMatchFacesRequest new]
+-[RFSMatchFacesRequest initWithImages:]
+-[RFSMatchFacesRequest description]
+-[RFSMatchFacesRequest thumbnails]
+-[RFSMatchFacesRequest setThumbnails:]
+-[RFSMatchFacesRequest images]
+-[RFSMatchFacesRequest setImages:]
+-[RFSMatchFacesRequest similarityThreshold]
+-[RFSMatchFacesRequest setSimilarityThreshold:]
+-[RFSMatchFacesRequest metadata]
+-[RFSMatchFacesRequest setMetadata:]
+-[RFSMatchFacesRequest .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSMatchFacesRequest
+__OBJC_METACLASS_RO_$_RFSMatchFacesRequest
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesRequest
+_OBJC_IVAR_$_RFSMatchFacesRequest._thumbnails
+_OBJC_IVAR_$_RFSMatchFacesRequest._images
+_OBJC_IVAR_$_RFSMatchFacesRequest._similarityThreshold
+_OBJC_IVAR_$_RFSMatchFacesRequest._metadata
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesRequest
+__OBJC_$_PROP_LIST_RFSMatchFacesRequest
+__OBJC_CLASS_RO_$_RFSMatchFacesRequest
+Sources/MatchFaces/Request/RFSMatchFacesRequest.m
+Sources/MatchFaces/Request/RFSMatchFacesRequest.h
+-[RFSDetectedFace faceId]
+-[RFSDetectedFace setFaceId:]
+-[RFSDetectedFace rollAngle]
+-[RFSDetectedFace setRollAngle:]
+-[RFSDetectedFace yawAngle]
+-[RFSDetectedFace setYawAngle:]
+-[RFSDetectedFace bounds]
+-[RFSDetectedFace setBounds:]
+-[RFSDetectedFace foundFaceSquare]
+-[RFSDetectedFace setFoundFaceSquare:]
+-[RFSDetectedFace .cxx_destruct]
+_OBJC_IVAR_$_RFSDetectedFace._faceId
+_OBJC_IVAR_$_RFSDetectedFace._rollAngle
+_OBJC_IVAR_$_RFSDetectedFace._yawAngle
+_OBJC_IVAR_$_RFSDetectedFace._bounds
+_OBJC_IVAR_$_RFSDetectedFace._foundFaceSquare
+__OBJC_METACLASS_RO_$_RFSDetectedFace
+__OBJC_$_INSTANCE_METHODS_RFSDetectedFace
+__OBJC_$_INSTANCE_VARIABLES_RFSDetectedFace
+__OBJC_$_PROP_LIST_RFSDetectedFace
+__OBJC_CLASS_RO_$_RFSDetectedFace
+Sources/Services/FaceDetector/RFSDetectedFace.m
+Sources/Services/FaceDetector/RFSDetectedFace.h
+-[RFSLivenessResolvedCameraFormat initWithFormat:position:focalLength:focalLenIn35mmFilm:normalRatio:scaledRatio:]
+-[RFSLivenessResolvedCameraFormat formatResolution]
+-[RFSLivenessResolvedCameraFormat description]
+-[RFSLivenessResolvedCameraFormat format]
+-[RFSLivenessResolvedCameraFormat position]
+-[RFSLivenessResolvedCameraFormat focalLength]
+-[RFSLivenessResolvedCameraFormat focalLenIn35mmFilm]
+-[RFSLivenessResolvedCameraFormat normalRatio]
+-[RFSLivenessResolvedCameraFormat scaledRatio]
+-[RFSLivenessResolvedCameraFormat .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.11
+__OBJC_METACLASS_RO_$_RFSLivenessResolvedCameraFormat
+__OBJC_$_INSTANCE_METHODS_RFSLivenessResolvedCameraFormat
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._focalLength
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._focalLenIn35mmFilm
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._normalRatio
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._scaledRatio
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._format
+_OBJC_IVAR_$_RFSLivenessResolvedCameraFormat._position
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessResolvedCameraFormat
+__OBJC_$_PROP_LIST_RFSLivenessResolvedCameraFormat
+__OBJC_CLASS_RO_$_RFSLivenessResolvedCameraFormat
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessResolvedCameraFormat.m
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessResolvedCameraFormat.h
+-[RFSLivenessCameraFormatResolver init]
+___39-[RFSLivenessCameraFormatResolver init]_block_invoke
+___39-[RFSLivenessCameraFormatResolver init]_block_invoke_2
+-[RFSLivenessCameraFormatResolver setFormat:]
+___45-[RFSLivenessCameraFormatResolver setFormat:]_block_invoke
+-[RFSLivenessCameraFormatResolver setPosition:]
+___47-[RFSLivenessCameraFormatResolver setPosition:]_block_invoke
+-[RFSLivenessCameraFormatResolver setVideoGravity:]
+___51-[RFSLivenessCameraFormatResolver setVideoGravity:]_block_invoke
+-[RFSLivenessCameraFormatResolver setPreviewViewSize:]
+___54-[RFSLivenessCameraFormatResolver setPreviewViewSize:]_block_invoke
+-[RFSLivenessCameraFormatResolver processVideoBufferSize:withMetadata:]
+-[RFSLivenessCameraFormatResolver setNeedsRecalculate]
+___54-[RFSLivenessCameraFormatResolver setNeedsRecalculate]_block_invoke
+-[RFSLivenessCameraFormatResolver faceHeightInPixelsAtRealDistance:withRealFaceHeight:onImageOfSize:cameraFocalLength:cameraFieldOfView:cameraZoom:]
+-[RFSLivenessCameraFormatResolver videoPreviewFrameForGravity:frameSize:apertureSize:]
+-[RFSLivenessCameraFormatResolver cameraStream]
+-[RFSLivenessCameraFormatResolver format]
+-[RFSLivenessCameraFormatResolver position]
+-[RFSLivenessCameraFormatResolver videoGravity]
+-[RFSLivenessCameraFormatResolver previewViewSize]
+-[RFSLivenessCameraFormatResolver onResolvedFormat]
+-[RFSLivenessCameraFormatResolver setOnResolvedFormat:]
+-[RFSLivenessCameraFormatResolver sampleBufferPlugin]
+-[RFSLivenessCameraFormatResolver setSampleBufferPlugin:]
+-[RFSLivenessCameraFormatResolver lastFocalLength]
+-[RFSLivenessCameraFormatResolver setLastFocalLength:]
+-[RFSLivenessCameraFormatResolver lastFocalLenIn35mmFilm]
+-[RFSLivenessCameraFormatResolver setLastFocalLenIn35mmFilm:]
+-[RFSLivenessCameraFormatResolver lastPreviewFrame]
+-[RFSLivenessCameraFormatResolver setLastPreviewFrame:]
+-[RFSLivenessCameraFormatResolver .cxx_destruct]
+___block_descriptor_40_e8_32w_e51_v24?0"AVCaptureOutput"8^{opaqueCMSampleBuffer=}16l
+___block_descriptor_48_e8_32s_e5_v8?0l
+___block_descriptor_56_e8_32s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_CLASSLIST_REFERENCES_$_.67
+_OBJC_SELECTOR_REFERENCES_.75
+__OBJC_METACLASS_RO_$_RFSLivenessCameraFormatResolver
+__OBJC_$_INSTANCE_METHODS_RFSLivenessCameraFormatResolver
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._queue
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._needsToRecalculate
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._isProcessingVideoFrame
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._lastFocalLength
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._lastFocalLenIn35mmFilm
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._cameraStream
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._format
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._position
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._videoGravity
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._onResolvedFormat
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._sampleBufferPlugin
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._previewViewSize
+_OBJC_IVAR_$_RFSLivenessCameraFormatResolver._lastPreviewFrame
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessCameraFormatResolver
+__OBJC_$_PROP_LIST_RFSLivenessCameraFormatResolver
+__OBJC_CLASS_RO_$_RFSLivenessCameraFormatResolver
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessCameraFormatResolver.m
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessCameraFormatResolver.h
+__54-[RFSLivenessCameraFormatResolver setNeedsRecalculate]_block_invoke
+__54-[RFSLivenessCameraFormatResolver setPreviewViewSize:]_block_invoke
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__51-[RFSLivenessCameraFormatResolver setVideoGravity:]_block_invoke
+__47-[RFSLivenessCameraFormatResolver setPosition:]_block_invoke
+__45-[RFSLivenessCameraFormatResolver setFormat:]_block_invoke
+__39-[RFSLivenessCameraFormatResolver init]_block_invoke_2
+__39-[RFSLivenessCameraFormatResolver init]_block_invoke
+-[RFSBlockCancellableOperation initWithBlock:]
++[RFSBlockCancellableOperation operationWithBlock:]
+-[RFSBlockCancellableOperation main]
+-[RFSBlockCancellableOperation cancel]
+-[RFSBlockCancellableOperation block]
+-[RFSBlockCancellableOperation setBlock:]
+-[RFSBlockCancellableOperation .cxx_destruct]
+_OBJC_IVAR_$_RFSBlockCancellableOperation._block
+__OBJC_$_CLASS_METHODS_RFSBlockCancellableOperation
+__OBJC_METACLASS_RO_$_RFSBlockCancellableOperation
+__OBJC_$_INSTANCE_METHODS_RFSBlockCancellableOperation
+__OBJC_$_INSTANCE_VARIABLES_RFSBlockCancellableOperation
+__OBJC_$_PROP_LIST_RFSBlockCancellableOperation
+__OBJC_CLASS_RO_$_RFSBlockCancellableOperation
+Sources/Core/RFSBlockCancellableOperation.m
+Sources/Core/RFSBlockCancellableOperation.h
+-[RFSFaceCaptureVideoRecorderService init]
+-[RFSFaceCaptureVideoRecorderService initWithSampleBufferPlugin:withCropp:]
+-[RFSFaceCaptureVideoRecorderService bind]
+___42-[RFSFaceCaptureVideoRecorderService bind]_block_invoke
+-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]
+___75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke
+___75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke_2
+___75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke_3
+-[RFSFaceCaptureVideoRecorderService start]
+___43-[RFSFaceCaptureVideoRecorderService start]_block_invoke
+-[RFSFaceCaptureVideoRecorderService stop:]
+___43-[RFSFaceCaptureVideoRecorderService stop:]_block_invoke
+___43-[RFSFaceCaptureVideoRecorderService stop:]_block_invoke_2
+___copy_helper_block_e8_32b40w
+-[RFSFaceCaptureVideoRecorderService cancel]
+___44-[RFSFaceCaptureVideoRecorderService cancel]_block_invoke
+-[RFSFaceCaptureVideoRecorderService cropVideoAt:completion:]
+___61-[RFSFaceCaptureVideoRecorderService cropVideoAt:completion:]_block_invoke
+___copy_helper_block_e8_32s40b
+-[RFSFaceCaptureVideoRecorderService tempCaptureURL]
+-[RFSFaceCaptureVideoRecorderService finalCaptureURL]
+-[RFSFaceCaptureVideoRecorderService sampleBufferPlugin]
+-[RFSFaceCaptureVideoRecorderService setSampleBufferPlugin:]
+-[RFSFaceCaptureVideoRecorderService videoSize]
+-[RFSFaceCaptureVideoRecorderService setVideoSize:]
+-[RFSFaceCaptureVideoRecorderService expectedDuration]
+-[RFSFaceCaptureVideoRecorderService setExpectedDuration:]
+-[RFSFaceCaptureVideoRecorderService videoRecorder]
+-[RFSFaceCaptureVideoRecorderService setVideoRecorder:]
+-[RFSFaceCaptureVideoRecorderService isRequestedToStartRecording]
+-[RFSFaceCaptureVideoRecorderService setIsRequestedToStartRecording:]
+-[RFSFaceCaptureVideoRecorderService queue]
+-[RFSFaceCaptureVideoRecorderService setQueue:]
+-[RFSFaceCaptureVideoRecorderService averageBitrate]
+-[RFSFaceCaptureVideoRecorderService setAverageBitrate:]
+-[RFSFaceCaptureVideoRecorderService isCroppingEnabled]
+-[RFSFaceCaptureVideoRecorderService .cxx_destruct]
+___block_descriptor_32_e17_v16?0"NSError"8l
+___block_descriptor_40_e17_v16?0"NSError"8l
+___block_descriptor_80_e8_32s40w_e5_v8?0l
+___block_descriptor_48_e8_32bs40w_e27_v24?0"NSURL"8"NSError"16l
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+___block_descriptor_48_e8_32s40bs_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_CLASSLIST_REFERENCES_$_.100
+_OBJC_CLASSLIST_REFERENCES_$_.107
+_OBJC_SELECTOR_REFERENCES_.109
+__OBJC_METACLASS_RO_$_RFSFaceCaptureVideoRecorderService
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureVideoRecorderService
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._isRequestedToStartRecording
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._crop
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._sampleBufferPlugin
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._videoRecorder
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._queue
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._averageBitrate
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._videoSize
+_OBJC_IVAR_$_RFSFaceCaptureVideoRecorderService._expectedDuration
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureVideoRecorderService
+__OBJC_$_PROP_LIST_RFSFaceCaptureVideoRecorderService
+__OBJC_CLASS_RO_$_RFSFaceCaptureVideoRecorderService
+Sources/Services/FaceCapture/RFSFaceCaptureVideoRecorderService.m
+Sources/Services/FaceCapture/RFSFaceCaptureVideoRecorderService.h
+__copy_helper_block_e8_32s40b
+__61-[RFSFaceCaptureVideoRecorderService cropVideoAt:completion:]_block_invoke
+__44-[RFSFaceCaptureVideoRecorderService cancel]_block_invoke
+__copy_helper_block_e8_32b40w
+__43-[RFSFaceCaptureVideoRecorderService stop:]_block_invoke_2
+__43-[RFSFaceCaptureVideoRecorderService stop:]_block_invoke
+__43-[RFSFaceCaptureVideoRecorderService start]_block_invoke
+__75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke_3
+__75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke_2
+__75-[RFSFaceCaptureVideoRecorderService recordImageBuffer:atPresentationTime:]_block_invoke
+__42-[RFSFaceCaptureVideoRecorderService bind]_block_invoke
+-[RFSCameraToolbarView initWithFrame:]
+-[RFSCameraToolbarView setState:]
+-[RFSCameraToolbarView torchButton]
+-[RFSCameraToolbarView closeButton]
+-[RFSCameraToolbarView switchCameraButton]
++[RFSCameraToolbarView applyDefaultAppearance]
++[RFSCameraToolbarView initialize]
+-[RFSCameraToolbarView setupConstraints]
+-[RFSCameraToolbarView updateState:]
+-[RFSCameraToolbarView setTintColor:forState:]
+-[RFSCameraToolbarView tintColorForState:]
+-[RFSCameraToolbarView state]
+-[RFSCameraToolbarView stateTintColors]
+-[RFSCameraToolbarView setStateTintColors:]
+-[RFSCameraToolbarView setTorchButton:]
+-[RFSCameraToolbarView setSwitchCameraButton:]
+-[RFSCameraToolbarView setCloseButton:]
+-[RFSCameraToolbarView .cxx_destruct]
+_OBJC_IVAR_$_RFSCameraToolbarView._state
+_OBJC_IVAR_$_RFSCameraToolbarView._stateTintColors
+_OBJC_IVAR_$_RFSCameraToolbarView._torchButton
+_OBJC_IVAR_$_RFSCameraToolbarView._closeButton
+_OBJC_IVAR_$_RFSCameraToolbarView._switchCameraButton
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_CLASSLIST_REFERENCES_$_.78
+_OBJC_CLASSLIST_REFERENCES_$_.81
+__OBJC_$_CLASS_METHODS_RFSCameraToolbarView
+__OBJC_CLASS_PROTOCOLS_$_RFSCameraToolbarView
+__OBJC_METACLASS_RO_$_RFSCameraToolbarView
+__OBJC_$_INSTANCE_METHODS_RFSCameraToolbarView
+__OBJC_$_INSTANCE_VARIABLES_RFSCameraToolbarView
+__OBJC_$_PROP_LIST_RFSCameraToolbarView
+__OBJC_CLASS_RO_$_RFSCameraToolbarView
+Sources/Views/RFSCameraToolbarView.m
+Sources/Views/RFSCameraToolbarView.h
+-[RFSVideoUploadUseCaseImpl init]
++[RFSVideoUploadUseCaseImpl new]
+-[RFSVideoUploadUseCaseImpl initWithAPIService:]
+-[RFSVideoUploadUseCaseImpl dealloc]
+-[RFSVideoUploadUseCaseImpl uploadVideoAtURL:tag:guid:tryId:]
+___61-[RFSVideoUploadUseCaseImpl uploadVideoAtURL:tag:guid:tryId:]_block_invoke
+___61-[RFSVideoUploadUseCaseImpl uploadVideoAtURL:tag:guid:tryId:]_block_invoke_2
+___copy_helper_block_e8_32s40s48s56s64w
+___destroy_helper_block_e8_32s40s48s56s64w
+-[RFSVideoUploadUseCaseImpl apiService]
+-[RFSVideoUploadUseCaseImpl setApiService:]
+-[RFSVideoUploadUseCaseImpl uploadQueue]
+-[RFSVideoUploadUseCaseImpl setUploadQueue:]
+-[RFSVideoUploadUseCaseImpl .cxx_destruct]
+___block_descriptor_32_e20_v24?08"NSError"16l
+___block_descriptor_72_e8_32s40s48s56s64w_e5_v8?0l
+__OBJC_$_CLASS_METHODS_RFSVideoUploadUseCaseImpl
+__OBJC_$_PROTOCOL_REFS_RFSVideoUploadUseCase
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSVideoUploadUseCase
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSVideoUploadUseCase
+__OBJC_PROTOCOL_$_RFSVideoUploadUseCase
+__OBJC_LABEL_PROTOCOL_$_RFSVideoUploadUseCase
+__OBJC_CLASS_PROTOCOLS_$_RFSVideoUploadUseCaseImpl
+__OBJC_METACLASS_RO_$_RFSVideoUploadUseCaseImpl
+__OBJC_$_INSTANCE_METHODS_RFSVideoUploadUseCaseImpl
+_OBJC_IVAR_$_RFSVideoUploadUseCaseImpl._apiService
+_OBJC_IVAR_$_RFSVideoUploadUseCaseImpl._uploadQueue
+__OBJC_$_INSTANCE_VARIABLES_RFSVideoUploadUseCaseImpl
+__OBJC_$_PROP_LIST_RFSVideoUploadUseCaseImpl
+__OBJC_CLASS_RO_$_RFSVideoUploadUseCaseImpl
+Sources/Services/FaceCapture/RFSVideoUploadUseCase.m
+__destroy_helper_block_e8_32s40s48s56s64w
+__copy_helper_block_e8_32s40s48s56s64w
+__61-[RFSVideoUploadUseCaseImpl uploadVideoAtURL:tag:guid:tryId:]_block_invoke_2
+__61-[RFSVideoUploadUseCaseImpl uploadVideoAtURL:tag:guid:tryId:]_block_invoke
+-[RFSFaceDetectorHint init]
++[RFSFaceDetectorHint new]
+-[RFSFaceDetectorHint initWithType:]
++[RFSFaceDetectorHint hintWithType:]
+-[RFSFaceDetectorHint type]
+__OBJC_$_CLASS_METHODS_RFSFaceDetectorHint
+__OBJC_METACLASS_RO_$_RFSFaceDetectorHint
+__OBJC_$_INSTANCE_METHODS_RFSFaceDetectorHint
+_OBJC_IVAR_$_RFSFaceDetectorHint._type
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceDetectorHint
+__OBJC_$_PROP_LIST_RFSFaceDetectorHint
+__OBJC_CLASS_RO_$_RFSFaceDetectorHint
+Sources/Services/FaceDetector/RFSFaceDetectorHint.m
+Sources/Services/FaceDetector/RFSFaceDetectorHint.h
+-[RFSSendVideoAPIRequest initWithVideoData:tag:guid:tryId:]
+-[RFSSendVideoAPIRequest path]
+-[RFSSendVideoAPIRequest urlParameters]
+-[RFSSendVideoAPIRequest method]
+-[RFSSendVideoAPIRequest task]
+-[RFSSendVideoAPIRequest headers]
+-[RFSSendVideoAPIRequest videoData]
+-[RFSSendVideoAPIRequest setVideoData:]
+-[RFSSendVideoAPIRequest tag]
+-[RFSSendVideoAPIRequest setTag:]
+-[RFSSendVideoAPIRequest guid]
+-[RFSSendVideoAPIRequest setGuid:]
+-[RFSSendVideoAPIRequest tryId]
+-[RFSSendVideoAPIRequest setTryId:]
+-[RFSSendVideoAPIRequest .cxx_destruct]
+_OBJC_IVAR_$_RFSSendVideoAPIRequest._videoData
+_OBJC_IVAR_$_RFSSendVideoAPIRequest._tag
+_OBJC_IVAR_$_RFSSendVideoAPIRequest._guid
+_OBJC_IVAR_$_RFSSendVideoAPIRequest._tryId
+_OBJC_CLASSLIST_REFERENCES_$_.29
+__OBJC_METACLASS_RO_$_RFSSendVideoAPIRequest
+__OBJC_$_INSTANCE_METHODS_RFSSendVideoAPIRequest
+__OBJC_$_INSTANCE_VARIABLES_RFSSendVideoAPIRequest
+__OBJC_$_PROP_LIST_RFSSendVideoAPIRequest
+__OBJC_CLASS_RO_$_RFSSendVideoAPIRequest
+Sources/Services/API/Requests/SendVideoRequest/RFSSendVideoAPIRequest.m
+-[RFSLivenessContentView initWithFrame:]
+-[RFSLivenessContentView setupConstraints]
+-[RFSLivenessContentView attachCameraPreviewView:]
+-[RFSLivenessContentView hintView]
+-[RFSLivenessContentView setHintView:]
+-[RFSLivenessContentView toolbarView]
+-[RFSLivenessContentView setToolbarView:]
+-[RFSLivenessContentView cameraPreviewContainerView]
+-[RFSLivenessContentView setCameraPreviewContainerView:]
+-[RFSLivenessContentView cameraPreviewView]
+-[RFSLivenessContentView setCameraPreviewView:]
+-[RFSLivenessContentView displayOverlayView]
+-[RFSLivenessContentView setDisplayOverlayView:]
+-[RFSLivenessContentView validationOverlayView]
+-[RFSLivenessContentView setValidationOverlayView:]
+-[RFSLivenessContentView .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_IVAR_$_RFSLivenessContentView._cameraPreviewContainerView
+_OBJC_IVAR_$_RFSLivenessContentView._validationOverlayView
+_OBJC_IVAR_$_RFSLivenessContentView._displayOverlayView
+_OBJC_IVAR_$_RFSLivenessContentView._toolbarView
+_OBJC_IVAR_$_RFSLivenessContentView._hintView
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_IVAR_$_RFSLivenessContentView._cameraPreviewView
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessContentView
+__OBJC_METACLASS_RO_$_RFSLivenessContentView
+__OBJC_$_INSTANCE_METHODS_RFSLivenessContentView
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessContentView
+__OBJC_$_PROP_LIST_RFSLivenessContentView
+__OBJC_CLASS_RO_$_RFSLivenessContentView
+Sources/Modules/UILiveness/Liveness/RFSLivenessContentView.m
+Sources/Modules/UILiveness/Liveness/RFSLivenessContentView.h
++[NSBundle(RFSFaceSDKBundle) rfs_resourcesBundle]
+___49+[NSBundle(RFSFaceSDKBundle) rfs_resourcesBundle]_block_invoke
++[NSBundle(RFSFaceSDKBundle) rfs_sdkBundle]
+___43+[NSBundle(RFSFaceSDKBundle) rfs_sdkBundle]_block_invoke
+__OBJC_METACLASS_RO_$_RFSTokenClass
+__OBJC_CLASS_RO_$_RFSTokenClass
+_rfs_resourcesBundle.instance
+_rfs_resourcesBundle.onceToken
+___block_descriptor_32_e5_v8?0l
+_rfs_sdkBundle.instance
+_rfs_sdkBundle.onceToken
+___block_literal_global.11
+__OBJC_$_CATEGORY_CLASS_METHODS_NSBundle_$_RFSFaceSDKBundle
+__OBJC_$_CLASS_PROP_LIST_NSBundle_$_RFSFaceSDKBundle
+__OBJC_$_CATEGORY_NSBundle_$_RFSFaceSDKBundle
+Sources/Catergories/NSBundle+RFSFaceSDKBundle.m
+__43+[NSBundle(RFSFaceSDKBundle) rfs_sdkBundle]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/dispatch/once.h
+__49+[NSBundle(RFSFaceSDKBundle) rfs_resourcesBundle]_block_invoke
+-[RFSMatchFacesDetectionFace initWithFaceIndex:landmarks:faceRect:rotationAngle:thumbnailImage:]
+-[RFSMatchFacesDetectionFace faceIndex]
+-[RFSMatchFacesDetectionFace landmarks]
+-[RFSMatchFacesDetectionFace faceRect]
+-[RFSMatchFacesDetectionFace rotationAngle]
+-[RFSMatchFacesDetectionFace thumbnailImage]
+-[RFSMatchFacesDetectionFace .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSMatchFacesDetectionFace
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesDetectionFace
+_OBJC_IVAR_$_RFSMatchFacesDetectionFace._faceIndex
+_OBJC_IVAR_$_RFSMatchFacesDetectionFace._landmarks
+_OBJC_IVAR_$_RFSMatchFacesDetectionFace._rotationAngle
+_OBJC_IVAR_$_RFSMatchFacesDetectionFace._thumbnailImage
+_OBJC_IVAR_$_RFSMatchFacesDetectionFace._faceRect
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesDetectionFace
+__OBJC_$_PROP_LIST_RFSMatchFacesDetectionFace
+__OBJC_CLASS_RO_$_RFSMatchFacesDetectionFace
+Sources/MatchFaces/Response/RFSMatchFacesDetectionFace.m
+Sources/MatchFaces/Response/RFSMatchFacesDetectionFace.h
+-[RFSLivenessState init]
++[RFSLivenessState new]
+-[RFSLivenessState initWithType:]
++[RFSLivenessState withType:]
+-[RFSLivenessState type]
+__OBJC_$_CLASS_METHODS_RFSLivenessState
+__OBJC_METACLASS_RO_$_RFSLivenessState
+__OBJC_$_INSTANCE_METHODS_RFSLivenessState
+_OBJC_IVAR_$_RFSLivenessState._type
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessState
+__OBJC_$_PROP_LIST_RFSLivenessState
+__OBJC_CLASS_RO_$_RFSLivenessState
+Sources/Modules/UILiveness/Liveness/RFSLivenessState.m
+Sources/Modules/UILiveness/Liveness/RFSLivenessState.h
+-[RFSLivenessService init]
+-[RFSLivenessService initWithSessionId:attemptsCount:apiService:videoUploadUseCase:visionService:]
+-[RFSLivenessService dealloc]
+-[RFSLivenessService setDelegate:]
+-[RFSLivenessService validateFace:completion:]
+___46-[RFSLivenessService validateFace:completion:]_block_invoke
+___copy_helper_block_e8_32b
+-[RFSLivenessService startLivenessWithNormalFace:completion:]
+___61-[RFSLivenessService startLivenessWithNormalFace:completion:]_block_invoke
+-[RFSLivenessService finishLivenessWithScaledFace:cameraFormat:completion:]
+___75-[RFSLivenessService finishLivenessWithScaledFace:cameraFormat:completion:]_block_invoke
+___copy_helper_block_e8_32b40s48s56w
+___destroy_helper_block_e8_32s40s48s56w
+-[RFSLivenessService processVideoAtURL:name:]
+-[RFSLivenessService cancel]
+-[RFSLivenessService reset]
+-[RFSLivenessService failAttempt]
+-[RFSLivenessService imageFromDepthData:]
+-[RFSLivenessService checkLivenessWithNormalImage:scaledImage:normalImageObservation:scaledImageObservation:cameraFormat:]
+___122-[RFSLivenessService checkLivenessWithNormalImage:scaledImage:normalImageObservation:scaledImageObservation:cameraFormat:]_block_invoke
+___copy_helper_block_e8_32s40s48w
+___destroy_helper_block_e8_32s40s48w
+-[RFSLivenessService processingTimeout]
+-[RFSLivenessService checkAttemptAndComplete:]
+-[RFSLivenessService processAndValidateFace:completion:]
+___56-[RFSLivenessService processAndValidateFace:completion:]_block_invoke
+-[RFSLivenessService makeServiceResultFromAPIResponse:inputNormal:inputScaled:apiError:]
+-[RFSLivenessService makeServiceErrorWithCode:underlyingError:]
+-[RFSLivenessService delegate]
+-[RFSLivenessService sessionId]
+-[RFSLivenessService attemptsCount]
+-[RFSLivenessService apiService]
+-[RFSLivenessService videoUploadUseCase]
+-[RFSLivenessService visionService]
+-[RFSLivenessService currentAttempt]
+-[RFSLivenessService setCurrentAttempt:]
+-[RFSLivenessService livenessRequestTask]
+-[RFSLivenessService setLivenessRequestTask:]
+-[RFSLivenessService processingTimer]
+-[RFSLivenessService setProcessingTimer:]
+-[RFSLivenessService normalFace]
+-[RFSLivenessService setNormalFace:]
+-[RFSLivenessService normalFaceObservationResult]
+-[RFSLivenessService setNormalFaceObservationResult:]
+-[RFSLivenessService .cxx_destruct]
+___block_descriptor_40_e8_32bs_e43_v20?0"RFSVisionFaceObservationResult"8B16l
+___block_descriptor_48_e8_32bs40w_e43_v20?0"RFSVisionFaceObservationResult"8B16l
+___block_descriptor_64_e8_32bs40s48s56w_e43_v20?0"RFSVisionFaceObservationResult"8B16l
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_CLASSLIST_REFERENCES_$_.91
+_OBJC_CLASSLIST_REFERENCES_$_.94
+___block_descriptor_56_e8_32s40s48w_e20_v24?08"NSError"16l
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.152
+___block_descriptor_40_e8_32bs_e17_v16?0"NSArray"8l
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_CLASSLIST_REFERENCES_$_.173
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_CLASSLIST_REFERENCES_$_.184
+__OBJC_METACLASS_RO_$_RFSLivenessService
+__OBJC_$_INSTANCE_METHODS_RFSLivenessService
+_OBJC_IVAR_$_RFSLivenessService._delegate
+_OBJC_IVAR_$_RFSLivenessService._sessionId
+_OBJC_IVAR_$_RFSLivenessService._attemptsCount
+_OBJC_IVAR_$_RFSLivenessService._apiService
+_OBJC_IVAR_$_RFSLivenessService._videoUploadUseCase
+_OBJC_IVAR_$_RFSLivenessService._visionService
+_OBJC_IVAR_$_RFSLivenessService._currentAttempt
+_OBJC_IVAR_$_RFSLivenessService._livenessRequestTask
+_OBJC_IVAR_$_RFSLivenessService._processingTimer
+_OBJC_IVAR_$_RFSLivenessService._normalFace
+_OBJC_IVAR_$_RFSLivenessService._normalFaceObservationResult
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessService
+__OBJC_$_PROP_LIST_RFSLivenessService
+__OBJC_CLASS_RO_$_RFSLivenessService
+Sources/Services/Liveness/RFSLivenessService.m
+Sources/Services/Liveness/RFSLivenessService.h
+__56-[RFSLivenessService processAndValidateFace:completion:]_block_invoke
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32s40s48w
+__122-[RFSLivenessService checkLivenessWithNormalImage:scaledImage:normalImageObservation:scaledImageObservation:cameraFormat:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56w
+__copy_helper_block_e8_32b40s48s56w
+__75-[RFSLivenessService finishLivenessWithScaledFace:cameraFormat:completion:]_block_invoke
+__61-[RFSLivenessService startLivenessWithNormalFace:completion:]_block_invoke
+__copy_helper_block_e8_32b
+__46-[RFSLivenessService validateFace:completion:]_block_invoke
+-[RFSLivenessRootBuilder init]
+-[RFSLivenessRootBuilder initWithConfiguration:camera:apiService:]
+-[RFSLivenessRootBuilder buildWithCompletion:transitionAnimated:]
+-[RFSLivenessRootBuilder configuration]
+-[RFSLivenessRootBuilder setConfiguration:]
+-[RFSLivenessRootBuilder camera]
+-[RFSLivenessRootBuilder setCamera:]
+-[RFSLivenessRootBuilder apiService]
+-[RFSLivenessRootBuilder setApiService:]
+-[RFSLivenessRootBuilder .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSLivenessRootBuilder
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRootBuilder
+_OBJC_IVAR_$_RFSLivenessRootBuilder._configuration
+_OBJC_IVAR_$_RFSLivenessRootBuilder._camera
+_OBJC_IVAR_$_RFSLivenessRootBuilder._apiService
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRootBuilder
+__OBJC_$_PROP_LIST_RFSLivenessRootBuilder
+__OBJC_CLASS_RO_$_RFSLivenessRootBuilder
+Sources/Modules/UILiveness/Root/RFSLivenessRootBuilder.m
+-[NSError(RFSUnderlyingError) rfs_underlyingError]
++[NSError(RFSUnderlyingError) rfs_errorWithDomain:code:userInfo:underlyingError:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSError_$_RFSUnderlyingError
+__OBJC_$_CATEGORY_CLASS_METHODS_NSError_$_RFSUnderlyingError
+__OBJC_$_PROP_LIST_NSError_$_RFSUnderlyingError
+__OBJC_$_CATEGORY_NSError_$_RFSUnderlyingError
+Sources/Catergories/NSError+RFSUnderlyingError.m
+-[RFSMatchFacesService initWithAPIService:]
+-[RFSMatchFacesService matchFaces:completion:]
+___46-[RFSMatchFacesService matchFaces:completion:]_block_invoke
+___copy_helper_block_e8_32b40s48w
+-[RFSMatchFacesService mapAPIResponse:sourceImages:similarityThreshold:]
+-[RFSMatchFacesService findFaceInDetections:imageIndex:faceIndex:]
+___66-[RFSMatchFacesService findFaceInDetections:imageIndex:faceIndex:]_block_invoke
+___66-[RFSMatchFacesService findFaceInDetections:imageIndex:faceIndex:]_block_invoke.93
+-[RFSMatchFacesService mapAPIDetection:sourceImages:]
+-[RFSMatchFacesService mapBackendError:]
+-[RFSMatchFacesService apiService]
+-[RFSMatchFacesService .cxx_destruct]
+___block_descriptor_56_e8_32bs40s48w_e20_v24?08"NSError"16l
+_OBJC_CLASSLIST_REFERENCES_$_.56
+_OBJC_CLASSLIST_REFERENCES_$_.68
+___block_descriptor_40_e8_32s_e39_B32?0"RFSMatchFacesDetection"8Q16^B24l
+___block_descriptor_40_e8_32s_e43_B32?0"RFSMatchFacesDetectionFace"8Q16^B24l
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_CLASSLIST_REFERENCES_$_.130
+__OBJC_METACLASS_RO_$_RFSMatchFacesService
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesService
+_OBJC_IVAR_$_RFSMatchFacesService._apiService
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesService
+__OBJC_$_PROP_LIST_RFSMatchFacesService
+__OBJC_CLASS_RO_$_RFSMatchFacesService
+Sources/Services/MatchFacesService/RFSMatchFacesService.m
+__66-[RFSMatchFacesService findFaceInDetections:imageIndex:faceIndex:]_block_invoke.93
+__66-[RFSMatchFacesService findFaceInDetections:imageIndex:faceIndex:]_block_invoke
+__copy_helper_block_e8_32b40s48w
+__46-[RFSMatchFacesService matchFaces:completion:]_block_invoke
+-[RFSPassthroughView pointInside:withEvent:]
+__OBJC_METACLASS_RO_$_RFSPassthroughView
+__OBJC_$_INSTANCE_METHODS_RFSPassthroughView
+__OBJC_CLASS_RO_$_RFSPassthroughView
+Sources/Views/RFSPassthroughView.m
+-[RFSCameraFocusView focusAtPoint:]
+-[RFSCameraFocusView removeFocusLayer]
+-[RFSCameraFocusView focusLayer]
+-[RFSCameraFocusView setFocusLayer:]
+-[RFSCameraFocusView .cxx_destruct]
+_OBJC_IVAR_$_RFSCameraFocusView._focusLayer
+__OBJC_METACLASS_RO_$_RFSCameraFocusView
+__OBJC_$_INSTANCE_METHODS_RFSCameraFocusView
+__OBJC_$_INSTANCE_VARIABLES_RFSCameraFocusView
+__OBJC_$_PROP_LIST_RFSCameraFocusView
+__OBJC_CLASS_RO_$_RFSCameraFocusView
+Sources/Views/CameraFocusView/RFSCameraFocusView.m
+-[RFSFaceCaptureState init]
+-[RFSFaceCaptureState initWithType:]
+-[RFSFaceCaptureState type]
+__OBJC_METACLASS_RO_$_RFSFaceCaptureState
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureState
+_OBJC_IVAR_$_RFSFaceCaptureState._type
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureState
+__OBJC_$_PROP_LIST_RFSFaceCaptureState
+__OBJC_CLASS_RO_$_RFSFaceCaptureState
+Sources/Modules/UIFaceCapture/RFSFaceCaptureState.m
+Sources/Modules/UIFaceCapture/RFSFaceCaptureState.h
+-[RFSMatchImageResultAPIResponse initWithFirstIndex:firstFaceIndex:first:secondIndex:secondFaceIndex:second:score:similarity:error:]
++[RFSMatchImageResultAPIResponse decodeFromJSON:]
+-[RFSMatchImageResultAPIResponse firstIndex]
+-[RFSMatchImageResultAPIResponse firstFaceIndex]
+-[RFSMatchImageResultAPIResponse first]
+-[RFSMatchImageResultAPIResponse secondIndex]
+-[RFSMatchImageResultAPIResponse secondFaceIndex]
+-[RFSMatchImageResultAPIResponse second]
+-[RFSMatchImageResultAPIResponse score]
+-[RFSMatchImageResultAPIResponse similarity]
+-[RFSMatchImageResultAPIResponse error]
+-[RFSMatchImageResultAPIResponse .cxx_destruct]
+-[RFSFaceRectangularAPIResponse initWithX:y:width:height:]
++[RFSFaceRectangularAPIResponse decodeFromJSON:]
+-[RFSFaceRectangularAPIResponse x]
+-[RFSFaceRectangularAPIResponse y]
+-[RFSFaceRectangularAPIResponse width]
+-[RFSFaceRectangularAPIResponse height]
+-[RFSFaceRectangularAPIResponse .cxx_destruct]
+-[RFSDetectionFaceAPIResponse initWithFaceIndex:landmarks:roi:rotationAngle:thumbnail:]
++[RFSDetectionFaceAPIResponse decodeFromJSON:]
+-[RFSDetectionFaceAPIResponse faceIndex]
+-[RFSDetectionFaceAPIResponse landmarks]
+-[RFSDetectionFaceAPIResponse roi]
+-[RFSDetectionFaceAPIResponse rotationAngle]
+-[RFSDetectionFaceAPIResponse thumbnail]
+-[RFSDetectionFaceAPIResponse .cxx_destruct]
+-[RFSMatchImageDetectionAPIResponse initWithImageIndex:faces:error:]
++[RFSMatchImageDetectionAPIResponse decodeFromJSON:]
+-[RFSMatchImageDetectionAPIResponse imageIndex]
+-[RFSMatchImageDetectionAPIResponse faces]
+-[RFSMatchImageDetectionAPIResponse error]
+-[RFSMatchImageDetectionAPIResponse .cxx_destruct]
+-[RFSMatchFacesAPIResponse initWithResults:detections:error:]
++[RFSMatchFacesAPIResponse decodeFromJSON:]
+-[RFSMatchFacesAPIResponse results]
+-[RFSMatchFacesAPIResponse detections]
+-[RFSMatchFacesAPIResponse error]
+-[RFSMatchFacesAPIResponse .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSMatchImageResultAPIResponse
+__OBJC_METACLASS_RO_$_RFSMatchImageResultAPIResponse
+__OBJC_$_INSTANCE_METHODS_RFSMatchImageResultAPIResponse
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._firstIndex
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._firstFaceIndex
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._first
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._secondIndex
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._secondFaceIndex
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._second
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._score
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._similarity
+_OBJC_IVAR_$_RFSMatchImageResultAPIResponse._error
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchImageResultAPIResponse
+__OBJC_$_PROP_LIST_RFSMatchImageResultAPIResponse
+__OBJC_CLASS_RO_$_RFSMatchImageResultAPIResponse
+_OBJC_CLASSLIST_REFERENCES_$_.74
+__OBJC_$_CLASS_METHODS_RFSFaceRectangularAPIResponse
+__OBJC_METACLASS_RO_$_RFSFaceRectangularAPIResponse
+__OBJC_$_INSTANCE_METHODS_RFSFaceRectangularAPIResponse
+_OBJC_IVAR_$_RFSFaceRectangularAPIResponse._x
+_OBJC_IVAR_$_RFSFaceRectangularAPIResponse._y
+_OBJC_IVAR_$_RFSFaceRectangularAPIResponse._width
+_OBJC_IVAR_$_RFSFaceRectangularAPIResponse._height
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceRectangularAPIResponse
+__OBJC_$_PROP_LIST_RFSFaceRectangularAPIResponse
+__OBJC_CLASS_RO_$_RFSFaceRectangularAPIResponse
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_CLASSLIST_REFERENCES_$_.112
+__OBJC_$_CLASS_METHODS_RFSDetectionFaceAPIResponse
+__OBJC_METACLASS_RO_$_RFSDetectionFaceAPIResponse
+__OBJC_$_INSTANCE_METHODS_RFSDetectionFaceAPIResponse
+_OBJC_IVAR_$_RFSDetectionFaceAPIResponse._faceIndex
+_OBJC_IVAR_$_RFSDetectionFaceAPIResponse._landmarks
+_OBJC_IVAR_$_RFSDetectionFaceAPIResponse._roi
+_OBJC_IVAR_$_RFSDetectionFaceAPIResponse._rotationAngle
+_OBJC_IVAR_$_RFSDetectionFaceAPIResponse._thumbnail
+__OBJC_$_INSTANCE_VARIABLES_RFSDetectionFaceAPIResponse
+__OBJC_$_PROP_LIST_RFSDetectionFaceAPIResponse
+__OBJC_CLASS_RO_$_RFSDetectionFaceAPIResponse
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+__OBJC_$_CLASS_METHODS_RFSMatchImageDetectionAPIResponse
+__OBJC_METACLASS_RO_$_RFSMatchImageDetectionAPIResponse
+__OBJC_$_INSTANCE_METHODS_RFSMatchImageDetectionAPIResponse
+_OBJC_IVAR_$_RFSMatchImageDetectionAPIResponse._imageIndex
+_OBJC_IVAR_$_RFSMatchImageDetectionAPIResponse._faces
+_OBJC_IVAR_$_RFSMatchImageDetectionAPIResponse._error
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchImageDetectionAPIResponse
+__OBJC_$_PROP_LIST_RFSMatchImageDetectionAPIResponse
+__OBJC_CLASS_RO_$_RFSMatchImageDetectionAPIResponse
+_OBJC_CLASSLIST_REFERENCES_$_.171
+_OBJC_CLASSLIST_REFERENCES_$_.174
+__OBJC_$_CLASS_METHODS_RFSMatchFacesAPIResponse
+__OBJC_METACLASS_RO_$_RFSMatchFacesAPIResponse
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesAPIResponse
+_OBJC_IVAR_$_RFSMatchFacesAPIResponse._results
+_OBJC_IVAR_$_RFSMatchFacesAPIResponse._detections
+_OBJC_IVAR_$_RFSMatchFacesAPIResponse._error
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesAPIResponse
+__OBJC_$_PROP_LIST_RFSMatchFacesAPIResponse
+__OBJC_CLASS_RO_$_RFSMatchFacesAPIResponse
+Sources/Services/API/Requests/MatchFaces/RFSMatchFacesAPIResponse.m
+Sources/Services/API/Requests/MatchFaces/RFSMatchFacesAPIResponse.h
+-[RFSLivenessRootRouter init]
+-[RFSLivenessRootRouter initWithView:presenter:livenessBuilder:transitionAnimated:]
+-[RFSLivenessRootRouter revertWithTransitionCompletion:]
+-[RFSLivenessRootRouter routeToProcessing]
+-[RFSLivenessRootRouter routeToRetryWithInfoType:]
+-[RFSLivenessRootRouter routeToLiveness]
+-[RFSLivenessRootRouter routeBackToLiveness]
+-[RFSLivenessRootRouter presentedTopViewControllerIn:]
+-[RFSLivenessRootRouter view]
+-[RFSLivenessRootRouter setView:]
+-[RFSLivenessRootRouter presenter]
+-[RFSLivenessRootRouter setPresenter:]
+-[RFSLivenessRootRouter livenessBuilder]
+-[RFSLivenessRootRouter setLivenessBuilder:]
+-[RFSLivenessRootRouter isTransitionAnimated]
+-[RFSLivenessRootRouter setTransitionAnimated:]
+-[RFSLivenessRootRouter livenessViewController]
+-[RFSLivenessRootRouter setLivenessViewController:]
+-[RFSLivenessRootRouter retryViewController]
+-[RFSLivenessRootRouter setRetryViewController:]
+-[RFSLivenessRootRouter processingViewController]
+-[RFSLivenessRootRouter setProcessingViewController:]
+-[RFSLivenessRootRouter .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSLivenessRootRouter
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRootRouter
+_OBJC_IVAR_$_RFSLivenessRootRouter._transitionAnimated
+_OBJC_IVAR_$_RFSLivenessRootRouter._view
+_OBJC_IVAR_$_RFSLivenessRootRouter._presenter
+_OBJC_IVAR_$_RFSLivenessRootRouter._livenessBuilder
+_OBJC_IVAR_$_RFSLivenessRootRouter._livenessViewController
+_OBJC_IVAR_$_RFSLivenessRootRouter._retryViewController
+_OBJC_IVAR_$_RFSLivenessRootRouter._processingViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRootRouter
+__OBJC_$_PROP_LIST_RFSLivenessRootRouter
+__OBJC_CLASS_RO_$_RFSLivenessRootRouter
+Sources/Modules/UILiveness/Root/RFSLivenessRootRouter.m
+-[RFSMatchFacesComparedFace init]
++[RFSMatchFacesComparedFace new]
+-[RFSMatchFacesComparedFace initWithImageIndex:image:faceIndex:face:]
+-[RFSMatchFacesComparedFace imageType]
+-[RFSMatchFacesComparedFace position]
+-[RFSMatchFacesComparedFace description]
+-[RFSMatchFacesComparedFace imageIndex]
+-[RFSMatchFacesComparedFace image]
+-[RFSMatchFacesComparedFace faceIndex]
+-[RFSMatchFacesComparedFace face]
+-[RFSMatchFacesComparedFace setPosition:]
+-[RFSMatchFacesComparedFace .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.26
+__OBJC_$_CLASS_METHODS_RFSMatchFacesComparedFace
+__OBJC_METACLASS_RO_$_RFSMatchFacesComparedFace
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesComparedFace
+_OBJC_IVAR_$_RFSMatchFacesComparedFace._imageIndex
+_OBJC_IVAR_$_RFSMatchFacesComparedFace._image
+_OBJC_IVAR_$_RFSMatchFacesComparedFace._faceIndex
+_OBJC_IVAR_$_RFSMatchFacesComparedFace._face
+_OBJC_IVAR_$_RFSMatchFacesComparedFace._position
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesComparedFace
+__OBJC_$_PROP_LIST_RFSMatchFacesComparedFace
+__OBJC_CLASS_RO_$_RFSMatchFacesComparedFace
+Sources/MatchFaces/Response/RFSMatchFacesComparedFace.m
+Sources/MatchFaces/Response/RFSMatchFacesComparedFace.h
+-[RFSLivenessConfiguration initWithBuilder:]
+-[RFSLivenessConfiguration description]
++[RFSLivenessConfiguration builderClass]
+-[RFSLivenessConfiguration isHintAnimationEnabled]
+-[RFSLivenessConfiguration attemptsCount]
+-[RFSLivenessConfiguration isLocationTrackingEnabled]
+-[RFSLivenessConfiguration isRecordingProcessEnabled]
+-[RFSLivenessConfiguration isCameraSwitchButtonEnabled]
+-[RFSLivenessConfiguration isTorchButtonEnabled]
+-[RFSLivenessConfiguration isCloseButtonEnabled]
+-[RFSLivenessConfiguration cameraPosition]
+-[RFSLivenessConfiguration isDepthDataCollectionEnabled]
++[RFSLivenessConfigurationBuilder defaultBuilder]
+-[RFSLivenessConfigurationBuilder isDepthDataCollectionEnabled]
+-[RFSLivenessConfigurationBuilder setDepthDataCollectionEnabled:]
+-[RFSLivenessConfigurationBuilder isHintAnimationEnabled]
+-[RFSLivenessConfigurationBuilder setEnableHintAnimation:]
+-[RFSLivenessConfigurationBuilder attemptsCount]
+-[RFSLivenessConfigurationBuilder setAttemptsCount:]
+-[RFSLivenessConfigurationBuilder isLocationTrackingEnabled]
+-[RFSLivenessConfigurationBuilder setLocationTrackingEnabled:]
+-[RFSLivenessConfigurationBuilder isRecordingProcessEnabled]
+-[RFSLivenessConfigurationBuilder setRecordingProcessEnabled:]
+-[RFSLivenessConfigurationBuilder isCameraSwitchButtonEnabled]
+-[RFSLivenessConfigurationBuilder setCameraSwitchButtonEnabled:]
+-[RFSLivenessConfigurationBuilder isTorchButtonEnabled]
+-[RFSLivenessConfigurationBuilder setTorchButtonEnabled:]
+-[RFSLivenessConfigurationBuilder isCloseButtonEnabled]
+-[RFSLivenessConfigurationBuilder setCloseButtonEnabled:]
+-[RFSLivenessConfigurationBuilder cameraPosition]
+-[RFSLivenessConfigurationBuilder setCameraPosition:]
+_OBJC_IVAR_$_RFSLivenessConfiguration._enableHintAnimation
+_OBJC_IVAR_$_RFSLivenessConfiguration._attemptsCount
+_OBJC_IVAR_$_RFSLivenessConfiguration._locationTrackingEnabled
+_OBJC_IVAR_$_RFSLivenessConfiguration._recordingProcessEnabled
+_OBJC_IVAR_$_RFSLivenessConfiguration._cameraSwitchButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfiguration._torchButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfiguration._closeButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfiguration._cameraPosition
+_OBJC_IVAR_$_RFSLivenessConfiguration._depthDataCollectionEnabled
+__OBJC_$_CLASS_METHODS_RFSLivenessConfiguration
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessConfiguration
+__OBJC_METACLASS_RO_$_RFSLivenessConfiguration
+__OBJC_$_INSTANCE_METHODS_RFSLivenessConfiguration
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessConfiguration
+__OBJC_$_PROP_LIST_RFSLivenessConfiguration
+__OBJC_CLASS_RO_$_RFSLivenessConfiguration
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._depthDataCollectionEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._enableHintAnimation
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._attemptsCount
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._locationTrackingEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._recordingProcessEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._cameraSwitchButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._torchButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._closeButtonEnabled
+_OBJC_IVAR_$_RFSLivenessConfigurationBuilder._cameraPosition
+__OBJC_$_CLASS_METHODS_RFSLivenessConfigurationBuilder
+__OBJC_METACLASS_RO_$_RFSLivenessConfigurationBuilder
+__OBJC_$_INSTANCE_METHODS_RFSLivenessConfigurationBuilder
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessConfigurationBuilder
+__OBJC_$_PROP_LIST_RFSLivenessConfigurationBuilder
+__OBJC_CLASS_RO_$_RFSLivenessConfigurationBuilder
+Sources/Configuration/RFSLivenessConfiguration.m
+Sources/Configuration/RFSLivenessConfiguration.h
+Sources/Configuration/RFSLivenessConfiguration+Private.h
+-[RFSFaceCaptureConfiguration initWithBuilder:]
+-[RFSFaceCaptureConfiguration description]
++[RFSFaceCaptureConfiguration builderClass]
+-[RFSFaceCaptureConfiguration isHintAnimationEnabled]
+-[RFSFaceCaptureConfiguration isCameraSwitchButtonEnabled]
+-[RFSFaceCaptureConfiguration isTorchButtonEnabled]
+-[RFSFaceCaptureConfiguration isCloseButtonEnabled]
+-[RFSFaceCaptureConfiguration cameraPosition]
++[RFSFaceCaptureConfigurationBuilder defaultBuilder]
+-[RFSFaceCaptureConfigurationBuilder isHintAnimationEnabled]
+-[RFSFaceCaptureConfigurationBuilder setEnableHintAnimation:]
+-[RFSFaceCaptureConfigurationBuilder isCameraSwitchButtonEnabled]
+-[RFSFaceCaptureConfigurationBuilder setCameraSwitchButtonEnabled:]
+-[RFSFaceCaptureConfigurationBuilder isTorchButtonEnabled]
+-[RFSFaceCaptureConfigurationBuilder setTorchButtonEnabled:]
+-[RFSFaceCaptureConfigurationBuilder isCloseButtonEnabled]
+-[RFSFaceCaptureConfigurationBuilder setCloseButtonEnabled:]
+-[RFSFaceCaptureConfigurationBuilder cameraPosition]
+-[RFSFaceCaptureConfigurationBuilder setCameraPosition:]
+_OBJC_IVAR_$_RFSFaceCaptureConfiguration._enableHintAnimation
+_OBJC_IVAR_$_RFSFaceCaptureConfiguration._cameraSwitchButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfiguration._torchButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfiguration._closeButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfiguration._cameraPosition
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.35
+__OBJC_$_CLASS_METHODS_RFSFaceCaptureConfiguration
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureConfiguration
+__OBJC_METACLASS_RO_$_RFSFaceCaptureConfiguration
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureConfiguration
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureConfiguration
+__OBJC_$_PROP_LIST_RFSFaceCaptureConfiguration
+__OBJC_CLASS_RO_$_RFSFaceCaptureConfiguration
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_IVAR_$_RFSFaceCaptureConfigurationBuilder._enableHintAnimation
+_OBJC_IVAR_$_RFSFaceCaptureConfigurationBuilder._cameraSwitchButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfigurationBuilder._torchButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfigurationBuilder._closeButtonEnabled
+_OBJC_IVAR_$_RFSFaceCaptureConfigurationBuilder._cameraPosition
+__OBJC_$_CLASS_METHODS_RFSFaceCaptureConfigurationBuilder
+__OBJC_METACLASS_RO_$_RFSFaceCaptureConfigurationBuilder
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureConfigurationBuilder
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureConfigurationBuilder
+__OBJC_$_PROP_LIST_RFSFaceCaptureConfigurationBuilder
+__OBJC_CLASS_RO_$_RFSFaceCaptureConfigurationBuilder
+Sources/Configuration/RFSFaceCaptureConfiguration.m
+Sources/Configuration/RFSFaceCaptureConfiguration.h
+-[RFSImage init]
++[RFSImage new]
+-[RFSImage initWithImage:type:]
+-[RFSImage description]
+-[RFSImage identifier]
+-[RFSImage setIdentifier:]
+-[RFSImage image]
+-[RFSImage setImage:]
+-[RFSImage imageType]
+-[RFSImage setImageType:]
+-[RFSImage .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSImage
+__OBJC_METACLASS_RO_$_RFSImage
+__OBJC_$_INSTANCE_METHODS_RFSImage
+_OBJC_IVAR_$_RFSImage._identifier
+_OBJC_IVAR_$_RFSImage._image
+_OBJC_IVAR_$_RFSImage._imageType
+__OBJC_$_INSTANCE_VARIABLES_RFSImage
+__OBJC_$_PROP_LIST_RFSImage
+__OBJC_CLASS_RO_$_RFSImage
+Sources/Core/RFSImage.m
+Sources/Core/RFSImage.h
+-[RFSLivenessCameraFormatController initWithSize:]
+-[RFSLivenessCameraFormatController setFormats:]
+-[RFSLivenessCameraFormatController current]
+-[RFSLivenessCameraFormatController fetchNextFormat]
+-[RFSLivenessCameraFormatController fetchBestResolvedFormat]
+-[RFSLivenessCameraFormatController saveResolvedCameraFormat:]
+-[RFSLivenessCameraFormatController fetchSavedResolvedFormats]
+-[RFSLivenessCameraFormatController bestOfResolvedFormats:]
+___59-[RFSLivenessCameraFormatController bestOfResolvedFormats:]_block_invoke
+-[RFSLivenessCameraFormatController sortFormats:]
+___49-[RFSLivenessCameraFormatController sortFormats:]_block_invoke
+-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]
+___62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke
+___62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke_2
+___62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke.69
+___62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke_2.73
+-[RFSLivenessCameraFormatController size]
+-[RFSLivenessCameraFormatController sorted]
+-[RFSLivenessCameraFormatController formats]
+-[RFSLivenessCameraFormatController currentResolved]
+-[RFSLivenessCameraFormatController setCurrentResolved:]
+-[RFSLivenessCameraFormatController currentIndex]
+-[RFSLivenessCameraFormatController setCurrentIndex:]
+-[RFSLivenessCameraFormatController resolvedFormats]
+-[RFSLivenessCameraFormatController fallbackResolvedFormats]
+-[RFSLivenessCameraFormatController .cxx_destruct]
+___block_descriptor_32_e77_q24?0"RFSLivenessResolvedCameraFormat"8"RFSLivenessResolvedCameraFormat"16l
+_OBJC_CLASSLIST_REFERENCES_$_.47
+___block_descriptor_36_e48_B24?0"AVCaptureDeviceFormat"8"NSDictionary"16l
+___block_descriptor_32_e48_B24?0"AVCaptureDeviceFormat"8"NSDictionary"16l
+___block_literal_global.67
+___block_descriptor_40_e8_32s_e57_q24?0"AVCaptureDeviceFormat"8"AVCaptureDeviceFormat"16l
+___block_literal_global.70
+___block_literal_global.74
+__OBJC_METACLASS_RO_$_RFSLivenessCameraFormatController
+__OBJC_$_INSTANCE_METHODS_RFSLivenessCameraFormatController
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._sorted
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._formats
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._currentResolved
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._currentIndex
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._resolvedFormats
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._fallbackResolvedFormats
+_OBJC_IVAR_$_RFSLivenessCameraFormatController._size
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessCameraFormatController
+__OBJC_$_PROP_LIST_RFSLivenessCameraFormatController
+__OBJC_CLASS_RO_$_RFSLivenessCameraFormatController
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessCameraFormatController.m
+Sources/Modules/UILiveness/Liveness/CameraFormat/RFSLivenessCameraFormatController.h
+__62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke_2.73
+__62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke.69
+__62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke_2
+__62-[RFSLivenessCameraFormatController sortByResolutionAndDepth:]_block_invoke
+__49-[RFSLivenessCameraFormatController sortFormats:]_block_invoke
+__59-[RFSLivenessCameraFormatController bestOfResolvedFormats:]_block_invoke
+-[RFSLivenessServiceResult init]
+-[RFSLivenessServiceResult initWithInputNormal:inputScaled:livenessPassed:error:]
+-[RFSLivenessServiceResult inputNormalFace]
+-[RFSLivenessServiceResult setInputNormalFace:]
+-[RFSLivenessServiceResult inputScaledFace]
+-[RFSLivenessServiceResult setInputScaledFace:]
+-[RFSLivenessServiceResult livenessPassed]
+-[RFSLivenessServiceResult setLivenessPassed:]
+-[RFSLivenessServiceResult livenessError]
+-[RFSLivenessServiceResult setLivenessError:]
+-[RFSLivenessServiceResult .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSLivenessServiceResult
+__OBJC_$_INSTANCE_METHODS_RFSLivenessServiceResult
+_OBJC_IVAR_$_RFSLivenessServiceResult._livenessPassed
+_OBJC_IVAR_$_RFSLivenessServiceResult._inputNormalFace
+_OBJC_IVAR_$_RFSLivenessServiceResult._inputScaledFace
+_OBJC_IVAR_$_RFSLivenessServiceResult._livenessError
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessServiceResult
+__OBJC_$_PROP_LIST_RFSLivenessServiceResult
+__OBJC_CLASS_RO_$_RFSLivenessServiceResult
+Sources/Services/Liveness/RFSLivenessServiceResult.m
+Sources/Services/Liveness/RFSLivenessServiceResult.h
+-[RFSFaceDetectorService init]
+-[RFSFaceDetectorService initWithValidator:cameraDataStream:]
+-[RFSFaceDetectorService setDetectionRegionFrame:]
+___50-[RFSFaceDetectorService setDetectionRegionFrame:]_block_invoke
+-[RFSFaceDetectorService setDetectionRegionPath:]
+___49-[RFSFaceDetectorService setDetectionRegionPath:]_block_invoke
+-[RFSFaceDetectorService setInnerValidationRadiusScale:]
+___56-[RFSFaceDetectorService setInnerValidationRadiusScale:]_block_invoke
+-[RFSFaceDetectorService setPreviewFrame:]
+___42-[RFSFaceDetectorService setPreviewFrame:]_block_invoke
+-[RFSFaceDetectorService setCurrentInterfaceOrientation:]
+___57-[RFSFaceDetectorService setCurrentInterfaceOrientation:]_block_invoke
+-[RFSFaceDetectorService setPreviewLayerGravity:]
+___49-[RFSFaceDetectorService setPreviewLayerGravity:]_block_invoke
+-[RFSFaceDetectorService setVideoMirrored:]
+___43-[RFSFaceDetectorService setVideoMirrored:]_block_invoke
+-[RFSFaceDetectorService bind]
+___30-[RFSFaceDetectorService bind]_block_invoke
+___30-[RFSFaceDetectorService bind]_block_invoke_2
+___copy_helper_block_e8_32s40s48r
+___destroy_helper_block_e8_32s40s48r
+___30-[RFSFaceDetectorService bind]_block_invoke.68
+___30-[RFSFaceDetectorService bind]_block_invoke_2.69
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
+___30-[RFSFaceDetectorService bind]_block_invoke.109
+___30-[RFSFaceDetectorService bind]_block_invoke_2.116
+___30-[RFSFaceDetectorService bind]_block_invoke.125
+___30-[RFSFaceDetectorService bind]_block_invoke_2.128
+___30-[RFSFaceDetectorService bind]_block_invoke_3
+___30-[RFSFaceDetectorService bind]_block_invoke_4
+___copy_helper_block_e8_32s40s48s56r
+___destroy_helper_block_e8_32s40s48s56r
+-[RFSFaceDetectorService makeDetectorFaceWithCIImage:faceId:depthData:]
+-[RFSFaceDetectorService start]
+-[RFSFaceDetectorService stop]
+-[RFSFaceDetectorService forceFaceCaptureAfterTime:faceId:]
+-[RFSFaceDetectorService handleChangeCamera]
+___44-[RFSFaceDetectorService handleChangeCamera]_block_invoke
+-[RFSFaceDetectorService detectFaceOnCIImage:exifOrientation:sampleBufferRect:]
+-[RFSFaceDetectorService videoPreviewFrameForGravity:frameSize:apertureSize:]
+-[RFSFaceDetectorService convertFaceFeatureRect:previewViewRect:previewViewGravity:videoMirrored:fromSampleBufferRect:]
+-[RFSFaceDetectorService facePlugin]
+-[RFSFaceDetectorService setFacePlugin:]
+-[RFSFaceDetectorService cameraDataStream]
+-[RFSFaceDetectorService setCameraDataStream:]
+-[RFSFaceDetectorService delegate]
+-[RFSFaceDetectorService setDelegate:]
+-[RFSFaceDetectorService detectionRegionFrame]
+-[RFSFaceDetectorService detectionRegionPath]
+-[RFSFaceDetectorService innerValidationRadiusScale]
+-[RFSFaceDetectorService previewFrame]
+-[RFSFaceDetectorService currentInterfaceOrientation]
+-[RFSFaceDetectorService previewLayerGravity]
+-[RFSFaceDetectorService isVideoMirrored]
+-[RFSFaceDetectorService validator]
+-[RFSFaceDetectorService setValidator:]
+-[RFSFaceDetectorService detector]
+-[RFSFaceDetectorService setDetector:]
+-[RFSFaceDetectorService capturedFaces]
+-[RFSFaceDetectorService setCapturedFaces:]
+-[RFSFaceDetectorService isDetecting]
+-[RFSFaceDetectorService setDetecting:]
+-[RFSFaceDetectorService detectedFaceFramesCount]
+-[RFSFaceDetectorService setDetectedFaceFramesCount:]
+-[RFSFaceDetectorService .cxx_destruct]
+___block_descriptor_72_e8_32s_e5_v8?0l
+___block_descriptor_41_e8_32s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.45
+___block_descriptor_56_e8_32s40s48r_e5_v8?0l
+___block_descriptor_56_e8_32s40r_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.105
+_OBJC_CLASSLIST_REFERENCES_$_.108
+___block_descriptor_104_e8_32s40s48s56r_e5_v8?0l
+___block_descriptor_40_e8_32w_e36_v16?0"RGLCCameraSynchronizedData"8l
+_OBJC_CLASSLIST_REFERENCES_$_.136
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.157
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_CLASSLIST_REFERENCES_$_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_CLASSLIST_REFERENCES_$_.198
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.214
+__OBJC_METACLASS_RO_$_RFSFaceDetectorService
+__OBJC_$_INSTANCE_METHODS_RFSFaceDetectorService
+_OBJC_IVAR_$_RFSFaceDetectorService._processingQueue
+_OBJC_IVAR_$_RFSFaceDetectorService._delegateQueue
+_OBJC_IVAR_$_RFSFaceDetectorService._delegateUnderlyingQueue
+_OBJC_IVAR_$_RFSFaceDetectorService._processingFrame
+_OBJC_IVAR_$_RFSFaceDetectorService._processingImageBuffer
+_OBJC_IVAR_$_RFSFaceDetectorService._forceFaceCapture
+_OBJC_IVAR_$_RFSFaceDetectorService._forceFaceCaptureTime
+_OBJC_IVAR_$_RFSFaceDetectorService._lastFaceId
+_OBJC_IVAR_$_RFSFaceDetectorService._skippedForceFramesCount
+_OBJC_IVAR_$_RFSFaceDetectorService._videoMirrored
+_OBJC_IVAR_$_RFSFaceDetectorService._detecting
+_OBJC_IVAR_$_RFSFaceDetectorService._facePlugin
+_OBJC_IVAR_$_RFSFaceDetectorService._cameraDataStream
+_OBJC_IVAR_$_RFSFaceDetectorService._delegate
+_OBJC_IVAR_$_RFSFaceDetectorService._detectionRegionPath
+_OBJC_IVAR_$_RFSFaceDetectorService._innerValidationRadiusScale
+_OBJC_IVAR_$_RFSFaceDetectorService._currentInterfaceOrientation
+_OBJC_IVAR_$_RFSFaceDetectorService._previewLayerGravity
+_OBJC_IVAR_$_RFSFaceDetectorService._validator
+_OBJC_IVAR_$_RFSFaceDetectorService._detector
+_OBJC_IVAR_$_RFSFaceDetectorService._capturedFaces
+_OBJC_IVAR_$_RFSFaceDetectorService._detectedFaceFramesCount
+_OBJC_IVAR_$_RFSFaceDetectorService._detectionRegionFrame
+_OBJC_IVAR_$_RFSFaceDetectorService._previewFrame
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceDetectorService
+__OBJC_$_PROP_LIST_RFSFaceDetectorService
+__OBJC_CLASS_RO_$_RFSFaceDetectorService
+Sources/Services/FaceDetector/RFSFaceDetectorService.m
+Sources/Services/FaceDetector/RFSFaceDetectorService.h
+__44-[RFSFaceDetectorService handleChangeCamera]_block_invoke
+__destroy_helper_block_e8_32s40s48s56r
+__copy_helper_block_e8_32s40s48s56r
+__30-[RFSFaceDetectorService bind]_block_invoke_4
+__30-[RFSFaceDetectorService bind]_block_invoke_3
+__30-[RFSFaceDetectorService bind]_block_invoke_2.128
+__30-[RFSFaceDetectorService bind]_block_invoke.125
+__30-[RFSFaceDetectorService bind]_block_invoke_2.116
+__30-[RFSFaceDetectorService bind]_block_invoke.109
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
+__30-[RFSFaceDetectorService bind]_block_invoke_2.69
+__tg_fabs
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/tgmath.h
+__30-[RFSFaceDetectorService bind]_block_invoke.68
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32s40s48r
+__30-[RFSFaceDetectorService bind]_block_invoke_2
+RFSCopyCVPixelBuffer
+__30-[RFSFaceDetectorService bind]_block_invoke
+__43-[RFSFaceDetectorService setVideoMirrored:]_block_invoke
+__49-[RFSFaceDetectorService setPreviewLayerGravity:]_block_invoke
+__57-[RFSFaceDetectorService setCurrentInterfaceOrientation:]_block_invoke
+__42-[RFSFaceDetectorService setPreviewFrame:]_block_invoke
+__56-[RFSFaceDetectorService setInnerValidationRadiusScale:]_block_invoke
+__49-[RFSFaceDetectorService setDetectionRegionPath:]_block_invoke
+__50-[RFSFaceDetectorService setDetectionRegionFrame:]_block_invoke
+-[RFSFaceCaptureFaceValidatorService validateFace:innerPoinstRadiusScale:]
+-[RFSFaceCaptureFaceValidatorService detectionFacePath]
+-[RFSFaceCaptureFaceValidatorService setDetectionFacePath:]
+-[RFSFaceCaptureFaceValidatorService detectionFaceRect]
+-[RFSFaceCaptureFaceValidatorService setDetectionFaceRect:]
+-[RFSFaceCaptureFaceValidatorService frameRect]
+-[RFSFaceCaptureFaceValidatorService setFrameRect:]
+-[RFSFaceCaptureFaceValidatorService .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureFaceValidatorService
+__OBJC_METACLASS_RO_$_RFSFaceCaptureFaceValidatorService
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureFaceValidatorService
+_OBJC_IVAR_$_RFSFaceCaptureFaceValidatorService._detectionFacePath
+_OBJC_IVAR_$_RFSFaceCaptureFaceValidatorService._detectionFaceRect
+_OBJC_IVAR_$_RFSFaceCaptureFaceValidatorService._frameRect
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureFaceValidatorService
+__OBJC_$_PROP_LIST_RFSFaceCaptureFaceValidatorService
+__OBJC_CLASS_RO_$_RFSFaceCaptureFaceValidatorService
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceCaptureFaceValidatorService.m
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceCaptureFaceValidatorService.h
+-[RFSFaceCaptureAreaFaceValidatorService validateFace:innerPoinstRadiusScale:]
+-[RFSFaceCaptureAreaFaceValidatorService detectionFacePath]
+-[RFSFaceCaptureAreaFaceValidatorService setDetectionFacePath:]
+-[RFSFaceCaptureAreaFaceValidatorService detectionFaceRect]
+-[RFSFaceCaptureAreaFaceValidatorService setDetectionFaceRect:]
+-[RFSFaceCaptureAreaFaceValidatorService frameRect]
+-[RFSFaceCaptureAreaFaceValidatorService setFrameRect:]
+-[RFSFaceCaptureAreaFaceValidatorService .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureAreaFaceValidatorService
+__OBJC_METACLASS_RO_$_RFSFaceCaptureAreaFaceValidatorService
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureAreaFaceValidatorService
+_OBJC_IVAR_$_RFSFaceCaptureAreaFaceValidatorService._detectionFacePath
+_OBJC_IVAR_$_RFSFaceCaptureAreaFaceValidatorService._detectionFaceRect
+_OBJC_IVAR_$_RFSFaceCaptureAreaFaceValidatorService._frameRect
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureAreaFaceValidatorService
+__OBJC_$_PROP_LIST_RFSFaceCaptureAreaFaceValidatorService
+__OBJC_CLASS_RO_$_RFSFaceCaptureAreaFaceValidatorService
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceCaptureAreaFaceValidatorService.m
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceCaptureAreaFaceValidatorService.h
+-[RFSFaceCaptureViewController prefersStatusBarHidden]
+-[RFSFaceCaptureViewController supportedInterfaceOrientations]
+-[RFSFaceCaptureViewController loadView]
+-[RFSFaceCaptureViewController viewDidLoad]
+___43-[RFSFaceCaptureViewController viewDidLoad]_block_invoke
+-[RFSFaceCaptureViewController viewWillAppear:]
+-[RFSFaceCaptureViewController viewDidAppear:]
+-[RFSFaceCaptureViewController viewWillDisappear:]
+-[RFSFaceCaptureViewController viewDidDisappear:]
+-[RFSFaceCaptureViewController viewDidLayoutSubviews]
+-[RFSFaceCaptureViewController onTorchButtonPress:]
+-[RFSFaceCaptureViewController onCloseButtonPress:]
+-[RFSFaceCaptureViewController onSwitchCameraButtonPress:]
+-[RFSFaceCaptureViewController onOrientationChange]
+-[RFSFaceCaptureViewController inject:]
+-[RFSFaceCaptureViewController setCameraPreviewView:]
+-[RFSFaceCaptureViewController displayFaceCaptureState:]
+___56-[RFSFaceCaptureViewController displayFaceCaptureState:]_block_invoke
+-[RFSFaceCaptureViewController displayHint:]
+-[RFSFaceCaptureViewController displayTorchState:]
+-[RFSFaceCaptureViewController displayFrontLight:]
+-[RFSFaceCaptureViewController updateCameraSwitchButtonHidden:]
+-[RFSFaceCaptureViewController updateTorchButtonHidden:]
+-[RFSFaceCaptureViewController updateCloseButtonHidden:]
+-[RFSFaceCaptureViewController checkDefaultBrighnessLevel]
+-[RFSFaceCaptureViewController presenter]
+-[RFSFaceCaptureViewController setPresenter:]
+-[RFSFaceCaptureViewController contentView]
+-[RFSFaceCaptureViewController setContentView:]
+-[RFSFaceCaptureViewController currentBrightnessLevel]
+-[RFSFaceCaptureViewController setCurrentBrightnessLevel:]
+-[RFSFaceCaptureViewController isFrontLightOn]
+-[RFSFaceCaptureViewController setIsFrontLightOn:]
+-[RFSFaceCaptureViewController .cxx_destruct]
+_OBJC_IVAR_$_RFSFaceCaptureViewController._contentView
+___block_descriptor_40_e8_32w_e19_v24?0{CGPoint=dd}8l
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_CLASSLIST_REFERENCES_$_.169
+_OBJC_IVAR_$_RFSFaceCaptureViewController._presenter
+_OBJC_IVAR_$_RFSFaceCaptureViewController._currentBrightnessLevel
+_OBJC_IVAR_$_RFSFaceCaptureViewController._isFrontLightOn
+__OBJC_$_PROTOCOL_REFS_RFSFaceCaptureView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSFaceCaptureView
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSFaceCaptureView
+__OBJC_PROTOCOL_$_RFSFaceCaptureView
+__OBJC_LABEL_PROTOCOL_$_RFSFaceCaptureView
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureViewController
+__OBJC_METACLASS_RO_$_RFSFaceCaptureViewController
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureViewController
+__OBJC_$_PROP_LIST_RFSFaceCaptureViewController
+__OBJC_CLASS_RO_$_RFSFaceCaptureViewController
+Sources/Modules/UIFaceCapture/RFSFaceCaptureViewController.m
+__56-[RFSFaceCaptureViewController displayFaceCaptureState:]_block_invoke
+__43-[RFSFaceCaptureViewController viewDidLoad]_block_invoke
+-[RFSMatchFacesComparedFacesPair init]
++[RFSMatchFacesComparedFacesPair new]
+-[RFSMatchFacesComparedFacesPair initWithFirst:second:score:similarity:error:]
+-[RFSMatchFacesComparedFacesPair description]
+-[RFSMatchFacesComparedFacesPair first]
+-[RFSMatchFacesComparedFacesPair setFirst:]
+-[RFSMatchFacesComparedFacesPair second]
+-[RFSMatchFacesComparedFacesPair setSecond:]
+-[RFSMatchFacesComparedFacesPair score]
+-[RFSMatchFacesComparedFacesPair similarity]
+-[RFSMatchFacesComparedFacesPair setSimilarity:]
+-[RFSMatchFacesComparedFacesPair error]
+-[RFSMatchFacesComparedFacesPair setError:]
+-[RFSMatchFacesComparedFacesPair .cxx_destruct]
+__OBJC_$_CLASS_METHODS_RFSMatchFacesComparedFacesPair
+__OBJC_METACLASS_RO_$_RFSMatchFacesComparedFacesPair
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesComparedFacesPair
+_OBJC_IVAR_$_RFSMatchFacesComparedFacesPair._first
+_OBJC_IVAR_$_RFSMatchFacesComparedFacesPair._second
+_OBJC_IVAR_$_RFSMatchFacesComparedFacesPair._score
+_OBJC_IVAR_$_RFSMatchFacesComparedFacesPair._similarity
+_OBJC_IVAR_$_RFSMatchFacesComparedFacesPair._error
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesComparedFacesPair
+__OBJC_$_PROP_LIST_RFSMatchFacesComparedFacesPair
+__OBJC_CLASS_RO_$_RFSMatchFacesComparedFacesPair
+Sources/MatchFaces/Response/RFSMatchFacesComparedFacesPair.m
+Sources/MatchFaces/Response/RFSMatchFacesComparedFacesPair.h
+-[RFSLivenessProcessingContentView initWithFrame:]
+-[RFSLivenessProcessingContentView processingStatusLabel]
+-[RFSLivenessProcessingContentView closeButton]
+-[RFSLivenessProcessingContentView activityIndicator]
+-[RFSLivenessProcessingContentView setupConstraints]
+-[RFSLivenessProcessingContentView setCloseButton:]
+-[RFSLivenessProcessingContentView setProcessingStatusLabel:]
+-[RFSLivenessProcessingContentView setActivityIndicator:]
+-[RFSLivenessProcessingContentView .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessProcessingContentView._processingStatusLabel
+_OBJC_IVAR_$_RFSLivenessProcessingContentView._closeButton
+_OBJC_IVAR_$_RFSLivenessProcessingContentView._activityIndicator
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_CLASSLIST_REFERENCES_$_.39
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessProcessingContentView
+__OBJC_METACLASS_RO_$_RFSLivenessProcessingContentView
+__OBJC_$_INSTANCE_METHODS_RFSLivenessProcessingContentView
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessProcessingContentView
+__OBJC_$_PROP_LIST_RFSLivenessProcessingContentView
+__OBJC_CLASS_RO_$_RFSLivenessProcessingContentView
+Sources/Modules/UILiveness/Processing/RFSLivenessProcessingContentView.m
+-[RFSMatchFacesImage initWithIdentifier:image:imageType:detectAll:]
+-[RFSMatchFacesImage initWithImage:imageType:detectAll:]
+-[RFSMatchFacesImage initWithImage:imageType:]
+-[RFSMatchFacesImage initWithRFSImage:detectAll:]
+-[RFSMatchFacesImage initWithRFSImage:]
+-[RFSMatchFacesImage description]
+-[RFSMatchFacesImage identifier]
+-[RFSMatchFacesImage image]
+-[RFSMatchFacesImage imageType]
+-[RFSMatchFacesImage detectAll]
+-[RFSMatchFacesImage .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSMatchFacesImage
+__OBJC_$_INSTANCE_METHODS_RFSMatchFacesImage
+_OBJC_IVAR_$_RFSMatchFacesImage._detectAll
+_OBJC_IVAR_$_RFSMatchFacesImage._identifier
+_OBJC_IVAR_$_RFSMatchFacesImage._image
+_OBJC_IVAR_$_RFSMatchFacesImage._imageType
+__OBJC_$_INSTANCE_VARIABLES_RFSMatchFacesImage
+__OBJC_$_PROP_LIST_RFSMatchFacesImage
+__OBJC_CLASS_RO_$_RFSMatchFacesImage
+Sources/MatchFaces/Request/RFSMatchFacesImage.m
+Sources/MatchFaces/Request/RFSMatchFacesImage.h
+-[RFSLivenessRetryViewController init]
++[RFSLivenessRetryViewController new]
+-[RFSLivenessRetryViewController initWithNibName:bundle:]
+-[RFSLivenessRetryViewController initWithCoder:]
+-[RFSLivenessRetryViewController initWithRetryInfoType:]
+-[RFSLivenessRetryViewController supportedInterfaceOrientations]
+-[RFSLivenessRetryViewController loadView]
+-[RFSLivenessRetryViewController viewDidLoad]
+-[RFSLivenessRetryViewController onCloseButtonPress:]
+-[RFSLivenessRetryViewController onRetryButtonPress:]
+-[RFSLivenessRetryViewController delegate]
+-[RFSLivenessRetryViewController setDelegate:]
+-[RFSLivenessRetryViewController infoType]
+-[RFSLivenessRetryViewController setInfoType:]
+-[RFSLivenessRetryViewController contentView]
+-[RFSLivenessRetryViewController setContentView:]
+-[RFSLivenessRetryViewController .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessRetryViewController._infoType
+_OBJC_IVAR_$_RFSLivenessRetryViewController._contentView
+_OBJC_IVAR_$_RFSLivenessRetryViewController._delegate
+__OBJC_$_CLASS_METHODS_RFSLivenessRetryViewController
+__OBJC_METACLASS_RO_$_RFSLivenessRetryViewController
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRetryViewController
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRetryViewController
+__OBJC_$_PROP_LIST_RFSLivenessRetryViewController
+__OBJC_CLASS_RO_$_RFSLivenessRetryViewController
+Sources/Modules/UILiveness/Retry/RFSLivenessRetryViewController.m
+Sources/Modules/UILiveness/Retry/RFSLivenessRetryViewController.h
+-[RFSCameraLivenessOverlayView initWithFrame:]
+-[RFSCameraLivenessOverlayView layoutSubviews]
+-[RFSCameraLivenessOverlayView setOvalHeight:]
+-[RFSCameraLivenessOverlayView setOvalSize:]
+-[RFSCameraLivenessOverlayView ovalRectForOvalHeight:]
+-[RFSCameraLivenessOverlayView ovalLayer]
+-[RFSCameraLivenessOverlayView setOvalLayer:]
+-[RFSCameraLivenessOverlayView ovalPath]
+-[RFSCameraLivenessOverlayView setOvalPath:]
+-[RFSCameraLivenessOverlayView ovalFrame]
+-[RFSCameraLivenessOverlayView setOvalFrame:]
+-[RFSCameraLivenessOverlayView ovalHeight]
+-[RFSCameraLivenessOverlayView ovalSize]
+-[RFSCameraLivenessOverlayView maskLayer]
+-[RFSCameraLivenessOverlayView setMaskLayer:]
+-[RFSCameraLivenessOverlayView .cxx_destruct]
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._ovalLayer
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._maskLayer
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._ovalFrame
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._ovalHeight
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._ovalSize
+_OBJC_IVAR_$_RFSCameraLivenessOverlayView._ovalPath
+__OBJC_METACLASS_RO_$_RFSCameraLivenessOverlayView
+__OBJC_$_INSTANCE_METHODS_RFSCameraLivenessOverlayView
+__OBJC_$_INSTANCE_VARIABLES_RFSCameraLivenessOverlayView
+__OBJC_$_PROP_LIST_RFSCameraLivenessOverlayView
+__OBJC_CLASS_RO_$_RFSCameraLivenessOverlayView
+Sources/Modules/UILiveness/Liveness/Content/RFSCameraLivenessOverlayView.m
+Sources/Modules/UILiveness/Liveness/Content/RFSCameraLivenessOverlayView.h
+-[RFSHintView initWithFrame:]
+-[RFSHintView setCornerRadius:]
+-[RFSHintView setState:]
+-[RFSHintView setTextColor:forState:]
+-[RFSHintView textColorForState:]
+-[RFSHintView setBackgroundColor:forState:]
+-[RFSHintView backgroundColorForState:]
++[RFSHintView applyDefaultAppearance]
++[RFSHintView initialize]
+-[RFSHintView startAnimating]
+-[RFSHintView stopAnimating]
+-[RFSHintView setText:]
+___23-[RFSHintView setText:]_block_invoke
+___23-[RFSHintView setText:]_block_invoke.139
+-[RFSHintView startBlinkTimer]
+-[RFSHintView stopBlinkTimer]
+-[RFSHintView startHideTimer]
+-[RFSHintView stopHideTimer]
+-[RFSHintView resetValue]
+___25-[RFSHintView resetValue]_block_invoke
+___25-[RFSHintView resetValue]_block_invoke_2
+-[RFSHintView state]
+-[RFSHintView text]
+-[RFSHintView cornerRadius]
+-[RFSHintView blinkTimer]
+-[RFSHintView setBlinkTimer:]
+-[RFSHintView hideTimer]
+-[RFSHintView setHideTimer:]
+-[RFSHintView label]
+-[RFSHintView setLabel:]
+-[RFSHintView stateColors]
+-[RFSHintView setStateColors:]
+-[RFSHintView isBlinkingAnimationEnabled]
+-[RFSHintView setBlinkingAnimationEnabled:]
+-[RFSHintView isBlinking]
+-[RFSHintView setBlinking:]
+-[RFSHintView .cxx_destruct]
+_OBJC_IVAR_$_RFSHintView._stateColors
+_OBJC_IVAR_$_RFSHintView._blinkingAnimationEnabled
+_OBJC_IVAR_$_RFSHintView._label
+_OBJC_IVAR_$_RFSHintView._cornerRadius
+_OBJC_IVAR_$_RFSHintView._state
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_CLASSLIST_REFERENCES_$_.104
+___block_descriptor_40_e8_32s_e8_v12?0B8l
+_OBJC_IVAR_$_RFSHintView._text
+_OBJC_IVAR_$_RFSHintView._blinkTimer
+_OBJC_IVAR_$_RFSHintView._hideTimer
+_OBJC_IVAR_$_RFSHintView._blinking
+__OBJC_$_CLASS_METHODS_RFSHintView
+__OBJC_METACLASS_RO_$_RFSHintView
+__OBJC_$_INSTANCE_METHODS_RFSHintView
+__OBJC_$_INSTANCE_VARIABLES_RFSHintView
+__OBJC_$_PROP_LIST_RFSHintView
+__OBJC_CLASS_RO_$_RFSHintView
+Sources/Views/RFSHintView.m
+Sources/Views/RFSHintView.h
+__25-[RFSHintView resetValue]_block_invoke_2
+__25-[RFSHintView resetValue]_block_invoke
+__23-[RFSHintView setText:]_block_invoke.139
+__23-[RFSHintView setText:]_block_invoke
+-[RFSFaceCaptureRouterImpl init]
+-[RFSFaceCaptureRouterImpl initWithParent:view:onCapture:]
+-[RFSFaceCaptureRouterImpl start:completion:]
+-[RFSFaceCaptureRouterImpl capture:]
+-[RFSFaceCaptureRouterImpl revert]
+___34-[RFSFaceCaptureRouterImpl revert]_block_invoke
+-[RFSFaceCaptureRouterImpl onCapture]
+-[RFSFaceCaptureRouterImpl setOnCapture:]
+-[RFSFaceCaptureRouterImpl parent]
+-[RFSFaceCaptureRouterImpl setParent:]
+-[RFSFaceCaptureRouterImpl view]
+-[RFSFaceCaptureRouterImpl setView:]
+-[RFSFaceCaptureRouterImpl .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.18
+__OBJC_$_PROTOCOL_REFS_RFSFaceCaptureRouter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSFaceCaptureRouter
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSFaceCaptureRouter
+__OBJC_PROTOCOL_$_RFSFaceCaptureRouter
+__OBJC_LABEL_PROTOCOL_$_RFSFaceCaptureRouter
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureRouterImpl
+__OBJC_METACLASS_RO_$_RFSFaceCaptureRouterImpl
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureRouterImpl
+_OBJC_IVAR_$_RFSFaceCaptureRouterImpl._onCapture
+_OBJC_IVAR_$_RFSFaceCaptureRouterImpl._parent
+_OBJC_IVAR_$_RFSFaceCaptureRouterImpl._view
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureRouterImpl
+__OBJC_$_PROP_LIST_RFSFaceCaptureRouterImpl
+__OBJC_CLASS_RO_$_RFSFaceCaptureRouterImpl
+Sources/Modules/UIFaceCapture/RFSFaceCaptureRouterImpl.m
+__34-[RFSFaceCaptureRouterImpl revert]_block_invoke
+-[RFSContext init]
+-[RFSContext setServiceURL:]
+-[RFSContext serviceURL]
++[RFSContext context]
+___21+[RFSContext context]_block_invoke
+___copy_helper_block_e8_
+___destroy_helper_block_e8_
+-[RFSContext updateFaceCaptureConfiguration:]
+-[RFSContext updateLivenessConfiguration:]
++[RFSContext resolveLivenessClass:]
++[RFSContext resolveFaceCaptureClass:]
+-[RFSContext camera]
+-[RFSContext apiService]
+-[RFSContext matchFacesService]
+-[RFSContext faceCaptureConfiguration]
+-[RFSContext setFaceCaptureConfiguration:]
+-[RFSContext livenessConfiguration]
+-[RFSContext setLivenessConfiguration:]
+-[RFSContext .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_context.instance
+_context.onceToken
+___block_descriptor_40_e8__e5_v8?0l
+__OBJC_$_CLASS_METHODS_RFSContext
+__OBJC_$_CLASS_PROP_LIST_RFSContext
+__OBJC_METACLASS_RO_$_RFSContext
+__OBJC_$_INSTANCE_METHODS_RFSContext
+_OBJC_IVAR_$_RFSContext._serviceURL
+_OBJC_IVAR_$_RFSContext._camera
+_OBJC_IVAR_$_RFSContext._apiService
+_OBJC_IVAR_$_RFSContext._matchFacesService
+_OBJC_IVAR_$_RFSContext._faceCaptureConfiguration
+_OBJC_IVAR_$_RFSContext._livenessConfiguration
+__OBJC_$_INSTANCE_VARIABLES_RFSContext
+__OBJC_$_PROP_LIST_RFSContext
+__OBJC_CLASS_RO_$_RFSContext
+Sources/Core/RFSContext.m
+Sources/Core/RFSContext.h
+__destroy_helper_block_e8_
+__copy_helper_block_e8_
+__21+[RFSContext context]_block_invoke
++[RFSLocalize string:]
++[RFSLocalize string:comment:argument:]
+__OBJC_$_CLASS_METHODS_RFSLocalize
+__OBJC_METACLASS_RO_$_RFSLocalize
+__OBJC_CLASS_RO_$_RFSLocalize
+Sources/Localization/RFSLocalize.m
+-[RFSAPIService init]
++[RFSAPIService new]
+-[RFSAPIService initWithSession:]
+-[RFSAPIService setOverrideURL:]
+-[RFSAPIService overrideURL]
+-[RFSAPIService setRequestInterceptingDelegate:]
+___48-[RFSAPIService setRequestInterceptingDelegate:]_block_invoke
+-[RFSAPIService request:completion:]
+___36-[RFSAPIService request:completion:]_block_invoke
+-[RFSAPIService requestInterceptingDelegate]
+-[RFSAPIService baseURL]
+-[RFSAPIService setBaseURL:]
+-[RFSAPIService session]
+-[RFSAPIService setSession:]
+-[RFSAPIService provider]
+-[RFSAPIService setProvider:]
+-[RFSAPIService .cxx_destruct]
+___block_descriptor_40_e8_32w_e36_"NSURLRequest"16?0"NSURLRequest"8l
+___block_descriptor_40_e8_32bs_e20_v24?08"NSError"16l
+__OBJC_$_CLASS_METHODS_RFSAPIService
+__OBJC_METACLASS_RO_$_RFSAPIService
+__OBJC_$_INSTANCE_METHODS_RFSAPIService
+_OBJC_IVAR_$_RFSAPIService._requestInterceptingDelegate
+_OBJC_IVAR_$_RFSAPIService._baseURL
+_OBJC_IVAR_$_RFSAPIService._session
+_OBJC_IVAR_$_RFSAPIService._provider
+__OBJC_$_INSTANCE_VARIABLES_RFSAPIService
+__OBJC_$_PROP_LIST_RFSAPIService
+__OBJC_CLASS_RO_$_RFSAPIService
+Sources/Services/API/RFSAPIService.m
+Sources/Services/API/RFSAPIService.h
+__36-[RFSAPIService request:completion:]_block_invoke
+__48-[RFSAPIService setRequestInterceptingDelegate:]_block_invoke
+-[RFSFaceCapturePresenterImpl init]
+-[RFSFaceCapturePresenterImpl initWith:configuration:camera:detectorService:videoRecorderService:videoUploadUseCase:router:]
+-[RFSFaceCapturePresenterImpl handleViewDidLoad]
+___48-[RFSFaceCapturePresenterImpl handleViewDidLoad]_block_invoke
+___48-[RFSFaceCapturePresenterImpl handleViewDidLoad]_block_invoke.70
+-[RFSFaceCapturePresenterImpl handleViewWillDisappear]
+-[RFSFaceCapturePresenterImpl handleViewWillAppear]
+___51-[RFSFaceCapturePresenterImpl handleViewWillAppear]_block_invoke
+-[RFSFaceCapturePresenterImpl handleDetectionFrameChanged:]
+-[RFSFaceCapturePresenterImpl handleDetectionPathChanged:]
+-[RFSFaceCapturePresenterImpl handleImageFrameChanged:]
+-[RFSFaceCapturePresenterImpl handleImageFrameTapAt:]
+-[RFSFaceCapturePresenterImpl handleTorchButtonPress]
+-[RFSFaceCapturePresenterImpl handleCloseButtonPress]
+___53-[RFSFaceCapturePresenterImpl handleCloseButtonPress]_block_invoke
+-[RFSFaceCapturePresenterImpl handleChangeCameraPress]
+-[RFSFaceCapturePresenterImpl handleOrientationChanged]
+-[RFSFaceCapturePresenterImpl faceCaptureService:didProvideHint:]
+___65-[RFSFaceCapturePresenterImpl faceCaptureService:didProvideHint:]_block_invoke
+___65-[RFSFaceCapturePresenterImpl faceCaptureService:didProvideHint:]_block_invoke.142
+-[RFSFaceCapturePresenterImpl faceCaptureServiceDidFindFace:]
+-[RFSFaceCapturePresenterImpl faceCaptureServiceDidLostFace:]
+-[RFSFaceCapturePresenterImpl faceCaptureService:didCaptureFace:]
+___65-[RFSFaceCapturePresenterImpl faceCaptureService:didCaptureFace:]_block_invoke
+-[RFSFaceCapturePresenterImpl finishFaceCaptureWithImage:]
+-[RFSFaceCapturePresenterImpl updateDetectorInputParameters]
+-[RFSFaceCapturePresenterImpl startSetDefaultHintTimer]
+-[RFSFaceCapturePresenterImpl setDefaultHint]
+-[RFSFaceCapturePresenterImpl view]
+-[RFSFaceCapturePresenterImpl setView:]
+-[RFSFaceCapturePresenterImpl configuration]
+-[RFSFaceCapturePresenterImpl setConfiguration:]
+-[RFSFaceCapturePresenterImpl camera]
+-[RFSFaceCapturePresenterImpl setCamera:]
+-[RFSFaceCapturePresenterImpl detectorService]
+-[RFSFaceCapturePresenterImpl setDetectorService:]
+-[RFSFaceCapturePresenterImpl videoRecorderService]
+-[RFSFaceCapturePresenterImpl setVideoRecorderService:]
+-[RFSFaceCapturePresenterImpl videoUploadUseCase]
+-[RFSFaceCapturePresenterImpl setVideoUploadUseCase:]
+-[RFSFaceCapturePresenterImpl router]
+-[RFSFaceCapturePresenterImpl setRouter:]
+-[RFSFaceCapturePresenterImpl hintDispatcher]
+-[RFSFaceCapturePresenterImpl setHintDispatcher:]
+-[RFSFaceCapturePresenterImpl defaultHintTimerRestarter]
+-[RFSFaceCapturePresenterImpl setDefaultHintTimerRestarter:]
+-[RFSFaceCapturePresenterImpl defaultHintTimer]
+-[RFSFaceCapturePresenterImpl setDefaultHintTimer:]
+-[RFSFaceCapturePresenterImpl detectionFrame]
+-[RFSFaceCapturePresenterImpl setDetectionFrame:]
+-[RFSFaceCapturePresenterImpl path]
+-[RFSFaceCapturePresenterImpl setPath:]
+-[RFSFaceCapturePresenterImpl imageFrame]
+-[RFSFaceCapturePresenterImpl setImageFrame:]
+-[RFSFaceCapturePresenterImpl .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.117
+___block_descriptor_40_e8_32w_e15_v16?0"NSURL"8l
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_CLASSLIST_REFERENCES_$_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_CLASSLIST_REFERENCES_$_.196
+_OBJC_CLASSLIST_REFERENCES_$_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_CLASSLIST_REFERENCES_$_.224
+__OBJC_$_PROTOCOL_REFS_RFSFaceCapturePresenter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_RFSFaceCapturePresenter
+__OBJC_$_PROTOCOL_METHOD_TYPES_RFSFaceCapturePresenter
+__OBJC_PROTOCOL_$_RFSFaceCapturePresenter
+__OBJC_LABEL_PROTOCOL_$_RFSFaceCapturePresenter
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCapturePresenterImpl
+__OBJC_METACLASS_RO_$_RFSFaceCapturePresenterImpl
+__OBJC_$_INSTANCE_METHODS_RFSFaceCapturePresenterImpl
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._view
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._configuration
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._camera
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._detectorService
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._videoRecorderService
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._videoUploadUseCase
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._router
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._hintDispatcher
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._defaultHintTimerRestarter
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._defaultHintTimer
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._path
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._detectionFrame
+_OBJC_IVAR_$_RFSFaceCapturePresenterImpl._imageFrame
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCapturePresenterImpl
+__OBJC_$_PROP_LIST_RFSFaceCapturePresenterImpl
+__OBJC_CLASS_RO_$_RFSFaceCapturePresenterImpl
+Sources/Modules/UIFaceCapture/RFSFaceCapturePresenterImpl.m
+__65-[RFSFaceCapturePresenterImpl faceCaptureService:didCaptureFace:]_block_invoke
+__65-[RFSFaceCapturePresenterImpl faceCaptureService:didProvideHint:]_block_invoke.142
+__65-[RFSFaceCapturePresenterImpl faceCaptureService:didProvideHint:]_block_invoke
+__53-[RFSFaceCapturePresenterImpl handleCloseButtonPress]_block_invoke
+__51-[RFSFaceCapturePresenterImpl handleViewWillAppear]_block_invoke
+__48-[RFSFaceCapturePresenterImpl handleViewDidLoad]_block_invoke.70
+__48-[RFSFaceCapturePresenterImpl handleViewDidLoad]_block_invoke
++[RFSFaceSDK service]
+___21+[RFSFaceSDK service]_block_invoke
+-[RFSFaceSDK init]
+-[RFSFaceSDK setServiceURL:]
+-[RFSFaceSDK setRequestInterceptingDelegate:]
+-[RFSFaceSDK requestInterceptingDelegate]
+-[RFSFaceSDK matchFaces:completion:]
+-[RFSFaceSDK presentFaceCaptureViewControllerFrom:animated:onCapture:completion:]
+-[RFSFaceSDK presentFaceCaptureViewControllerFrom:animated:configuration:onCapture:completion:]
+___95-[RFSFaceSDK presentFaceCaptureViewControllerFrom:animated:configuration:onCapture:completion:]_block_invoke
+-[RFSFaceSDK stopFaceCaptureViewController]
+-[RFSFaceSDK startLivenessFrom:animated:onLiveness:completion:]
+-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]
+___77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke
+___77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke_2
+___77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke_3
+-[RFSFaceSDK stopLivenessProcessing]
+-[RFSFaceSDK serviceURL]
+-[RFSFaceSDK version]
+-[RFSFaceSDK localizationHandler]
+-[RFSFaceSDK setLocalizationHandler:]
+-[RFSFaceSDK faceCaptureRouter]
+-[RFSFaceSDK setFaceCaptureRouter:]
+-[RFSFaceSDK livenessView]
+-[RFSFaceSDK setLivenessView:]
+-[RFSFaceSDK .cxx_destruct]
+_service.instance
+_service.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.62
+___block_descriptor_32_e28_v24?0"AVCaptureDevice"8q16l
+_OBJC_CLASSLIST_REFERENCES_$_.106
+___block_literal_global.134
+___block_descriptor_32_e34_v16?0"AVCaptureVideoDataOutput"8l
+___block_literal_global.136
+_OBJC_SELECTOR_REFERENCES_.146
+___block_descriptor_32_e34_v16?0"AVCaptureDepthDataOutput"8l
+___block_literal_global.154
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_CLASSLIST_REFERENCES_$_.165
+__OBJC_$_CLASS_METHODS_RFSFaceSDK
+__OBJC_$_CLASS_PROP_LIST_RFSFaceSDK
+__OBJC_METACLASS_RO_$_RFSFaceSDK
+__OBJC_$_INSTANCE_METHODS_RFSFaceSDK
+_OBJC_IVAR_$_RFSFaceSDK._serviceURL
+_OBJC_IVAR_$_RFSFaceSDK._version
+_OBJC_IVAR_$_RFSFaceSDK._localizationHandler
+_OBJC_IVAR_$_RFSFaceSDK._faceCaptureRouter
+_OBJC_IVAR_$_RFSFaceSDK._livenessView
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceSDK
+__OBJC_$_PROP_LIST_RFSFaceSDK
+__OBJC_CLASS_RO_$_RFSFaceSDK
+Sources/RFSFaceSDK.m
+Sources/RFSFaceSDK.h
+__77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke_3
+__77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke_2
+__77-[RFSFaceSDK startLivenessFrom:animated:configuration:onLiveness:completion:]_block_invoke
+__95-[RFSFaceSDK presentFaceCaptureViewControllerFrom:animated:configuration:onCapture:completion:]_block_invoke
+__21+[RFSFaceSDK service]_block_invoke
+-[RFSDispatchOnceIn dispatchOnceIn:onQueue:block:]
+___50-[RFSDispatchOnceIn dispatchOnceIn:onQueue:block:]_block_invoke
+-[RFSDispatchOnceIn timer]
+-[RFSDispatchOnceIn setTimer:]
+-[RFSDispatchOnceIn .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSDispatchOnceIn
+__OBJC_$_INSTANCE_METHODS_RFSDispatchOnceIn
+_OBJC_IVAR_$_RFSDispatchOnceIn._timer
+__OBJC_$_INSTANCE_VARIABLES_RFSDispatchOnceIn
+__OBJC_$_PROP_LIST_RFSDispatchOnceIn
+__OBJC_CLASS_RO_$_RFSDispatchOnceIn
+Sources/Core/RFSDispatchOnceIn.m
+__50-[RFSDispatchOnceIn dispatchOnceIn:onQueue:block:]_block_invoke
+-[RFSPoint initWithX:y:]
+-[RFSPoint initWithNumberX:numberY:]
+-[RFSPoint cgPoint]
+-[RFSPoint description]
+-[RFSPoint x]
+-[RFSPoint y]
+__OBJC_METACLASS_RO_$_RFSPoint
+__OBJC_$_INSTANCE_METHODS_RFSPoint
+_OBJC_IVAR_$_RFSPoint._x
+_OBJC_IVAR_$_RFSPoint._y
+__OBJC_$_INSTANCE_VARIABLES_RFSPoint
+__OBJC_$_PROP_LIST_RFSPoint
+__OBJC_CLASS_RO_$_RFSPoint
+Sources/Core/RFSPoint.m
+Sources/Core/RFSPoint.h
+-[RFSVisionFaceObservationResult initWithInputImage:landmarks:faceCaptureQuality:roll:yaw:error:]
+-[RFSVisionFaceObservationResult description]
+-[RFSVisionFaceObservationResult inputImage]
+-[RFSVisionFaceObservationResult setInputImage:]
+-[RFSVisionFaceObservationResult landmarks]
+-[RFSVisionFaceObservationResult setLandmarks:]
+-[RFSVisionFaceObservationResult faceCaptureQuality]
+-[RFSVisionFaceObservationResult setFaceCaptureQuality:]
+-[RFSVisionFaceObservationResult roll]
+-[RFSVisionFaceObservationResult setRoll:]
+-[RFSVisionFaceObservationResult yaw]
+-[RFSVisionFaceObservationResult setYaw:]
+-[RFSVisionFaceObservationResult error]
+-[RFSVisionFaceObservationResult setError:]
+-[RFSVisionFaceObservationResult .cxx_destruct]
+-[RFSVisionService processFaceImages:completion:]
+___49-[RFSVisionService processFaceImages:completion:]_block_invoke
+___49-[RFSVisionService processFaceImages:completion:]_block_invoke.93
+___copy_helper_block_e8_32b40s
+-[RFSVisionService detectLandmarksOnImage:completion:]
+___54-[RFSVisionService detectLandmarksOnImage:completion:]_block_invoke
+___54-[RFSVisionService detectLandmarksOnImage:completion:]_block_invoke_2
+___copy_helper_block_e8_32s40s48b
+___destroy_helper_block_e8_32s40s48s
+-[RFSVisionService makeVisionLandmarkFrom:type:imageSize:]
+-[RFSVisionService imagePropertyOrientationForUIImageOrientation:]
+_OBJC_CLASSLIST_REFERENCES_$_.32
+__OBJC_METACLASS_RO_$_RFSVisionFaceObservationResult
+__OBJC_$_INSTANCE_METHODS_RFSVisionFaceObservationResult
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._inputImage
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._landmarks
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._faceCaptureQuality
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._roll
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._yaw
+_OBJC_IVAR_$_RFSVisionFaceObservationResult._error
+__OBJC_$_INSTANCE_VARIABLES_RFSVisionFaceObservationResult
+__OBJC_$_PROP_LIST_RFSVisionFaceObservationResult
+__OBJC_CLASS_RO_$_RFSVisionFaceObservationResult
+_OBJC_CLASSLIST_REFERENCES_$_.76
+___block_descriptor_48_e8_32s40s_e40_v16?0"RFSVisionFaceObservationResult"8l
+___block_descriptor_48_e8_32bs40s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.109
+_OBJC_CLASSLIST_REFERENCES_$_.156
+___block_descriptor_72_e8_32s40s48bs_e31_v24?0"VNRequest"8"NSError"16l
+_OBJC_CLASSLIST_REFERENCES_$_.164
+___block_descriptor_56_e8_32s40s48bs_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.176
+__OBJC_METACLASS_RO_$_RFSVisionService
+__OBJC_$_INSTANCE_METHODS_RFSVisionService
+__OBJC_CLASS_RO_$_RFSVisionService
+Sources/Services/Vision/RFSVisionService.m
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48b
+__54-[RFSVisionService detectLandmarksOnImage:completion:]_block_invoke_2
+__54-[RFSVisionService detectLandmarksOnImage:completion:]_block_invoke
+__copy_helper_block_e8_32b40s
+__49-[RFSVisionService processFaceImages:completion:]_block_invoke.93
+__49-[RFSVisionService processFaceImages:completion:]_block_invoke
+Sources/Services/Vision/RFSVisionService.h
+-[RFSFaceValidation hint]
+-[RFSFaceValidation setHint:]
+-[RFSFaceValidation isValid]
+-[RFSFaceValidation setIsValid:]
+__OBJC_METACLASS_RO_$_RFSFaceValidation
+__OBJC_$_INSTANCE_METHODS_RFSFaceValidation
+_OBJC_IVAR_$_RFSFaceValidation._isValid
+_OBJC_IVAR_$_RFSFaceValidation._hint
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceValidation
+__OBJC_$_PROP_LIST_RFSFaceValidation
+__OBJC_CLASS_RO_$_RFSFaceValidation
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceValidation.m
+Sources/Services/FaceDetector/RFSFaceValidator/RFSFaceValidation.h
+-[RFSLivenessBuilder init]
+-[RFSLivenessBuilder initWithSessionId:configuration:camera:apiService:]
+-[RFSLivenessBuilder buildWithListener:transitionAnimated:]
+-[RFSLivenessBuilder sessionId]
+-[RFSLivenessBuilder setSessionId:]
+-[RFSLivenessBuilder configuration]
+-[RFSLivenessBuilder setConfiguration:]
+-[RFSLivenessBuilder camera]
+-[RFSLivenessBuilder setCamera:]
+-[RFSLivenessBuilder apiService]
+-[RFSLivenessBuilder setApiService:]
+-[RFSLivenessBuilder .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.42
+__OBJC_METACLASS_RO_$_RFSLivenessBuilder
+__OBJC_$_INSTANCE_METHODS_RFSLivenessBuilder
+_OBJC_IVAR_$_RFSLivenessBuilder._sessionId
+_OBJC_IVAR_$_RFSLivenessBuilder._configuration
+_OBJC_IVAR_$_RFSLivenessBuilder._camera
+_OBJC_IVAR_$_RFSLivenessBuilder._apiService
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessBuilder
+__OBJC_$_PROP_LIST_RFSLivenessBuilder
+__OBJC_CLASS_RO_$_RFSLivenessBuilder
+Sources/Modules/UILiveness/Liveness/RFSLivenessBuilder.m
+-[RFSLivenessErrorMapper mapLivenessError:]
+__OBJC_METACLASS_RO_$_RFSLivenessErrorMapper
+__OBJC_$_INSTANCE_METHODS_RFSLivenessErrorMapper
+__OBJC_CLASS_RO_$_RFSLivenessErrorMapper
+Sources/Services/LivenessErrorMapper/RFSLivenessErrorMapper.m
+-[RFSFaceCaptureContentView initWithFrame:]
++[RFSFaceCaptureContentView applyDefaultAppearance]
++[RFSFaceCaptureContentView initialize]
+-[RFSFaceCaptureContentView setBackgroundColor:forState:]
+-[RFSFaceCaptureContentView backgroundColorForState:]
+-[RFSFaceCaptureContentView setupConstraints]
+-[RFSFaceCaptureContentView handleTapOnFocusViewAction:]
+-[RFSFaceCaptureContentView attachCameraPreviewView:]
+-[RFSFaceCaptureContentView setState:]
+-[RFSFaceCaptureContentView hintView]
+-[RFSFaceCaptureContentView setHintView:]
+-[RFSFaceCaptureContentView toolbarView]
+-[RFSFaceCaptureContentView setToolbarView:]
+-[RFSFaceCaptureContentView cameraPreviewContainerView]
+-[RFSFaceCaptureContentView setCameraPreviewContainerView:]
+-[RFSFaceCaptureContentView cameraPreviewView]
+-[RFSFaceCaptureContentView setCameraPreviewView:]
+-[RFSFaceCaptureContentView displayOverlayView]
+-[RFSFaceCaptureContentView setDisplayOverlayView:]
+-[RFSFaceCaptureContentView cameraFocusView]
+-[RFSFaceCaptureContentView setCameraFocusView:]
+-[RFSFaceCaptureContentView onCameraFocusTap]
+-[RFSFaceCaptureContentView setOnCameraFocusTap:]
+-[RFSFaceCaptureContentView state]
+-[RFSFaceCaptureContentView stateColors]
+-[RFSFaceCaptureContentView setStateColors:]
+-[RFSFaceCaptureContentView .cxx_destruct]
+_OBJC_IVAR_$_RFSFaceCaptureContentView._stateColors
+_OBJC_IVAR_$_RFSFaceCaptureContentView._cameraPreviewContainerView
+_OBJC_IVAR_$_RFSFaceCaptureContentView._displayOverlayView
+_OBJC_IVAR_$_RFSFaceCaptureContentView._cameraFocusView
+_OBJC_IVAR_$_RFSFaceCaptureContentView._toolbarView
+_OBJC_IVAR_$_RFSFaceCaptureContentView._hintView
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_IVAR_$_RFSFaceCaptureContentView._state
+_OBJC_IVAR_$_RFSFaceCaptureContentView._cameraPreviewView
+_OBJC_IVAR_$_RFSFaceCaptureContentView._onCameraFocusTap
+__OBJC_$_CLASS_METHODS_RFSFaceCaptureContentView
+__OBJC_CLASS_PROTOCOLS_$_RFSFaceCaptureContentView
+__OBJC_METACLASS_RO_$_RFSFaceCaptureContentView
+__OBJC_$_INSTANCE_METHODS_RFSFaceCaptureContentView
+__OBJC_$_INSTANCE_VARIABLES_RFSFaceCaptureContentView
+__OBJC_$_PROP_LIST_RFSFaceCaptureContentView
+__OBJC_CLASS_RO_$_RFSFaceCaptureContentView
+Sources/Modules/UIFaceCapture/RFSFaceCaptureContentView.m
+Sources/Modules/UIFaceCapture/RFSFaceCaptureContentView.h
+-[RFSLivenessRetryContentView initWithFrame:]
+-[RFSLivenessRetryContentView tryAgainStatus]
+-[RFSLivenessRetryContentView checkConditionsLabel]
+-[RFSLivenessRetryContentView conditionsLabel]
+-[RFSLivenessRetryContentView retryButton]
+-[RFSLivenessRetryContentView closeButton]
+-[RFSLivenessRetryContentView setupConstraints]
+-[RFSLivenessRetryContentView setCloseButton:]
+-[RFSLivenessRetryContentView setRetryButton:]
+-[RFSLivenessRetryContentView setTryAgainStatus:]
+-[RFSLivenessRetryContentView setCheckConditionsLabel:]
+-[RFSLivenessRetryContentView setConditionsLabel:]
+-[RFSLivenessRetryContentView .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessRetryContentView._tryAgainStatus
+_OBJC_IVAR_$_RFSLivenessRetryContentView._checkConditionsLabel
+_OBJC_IVAR_$_RFSLivenessRetryContentView._conditionsLabel
+_OBJC_IVAR_$_RFSLivenessRetryContentView._retryButton
+_OBJC_IVAR_$_RFSLivenessRetryContentView._closeButton
+_OBJC_CLASSLIST_REFERENCES_$_.77
+__OBJC_CLASS_PROTOCOLS_$_RFSLivenessRetryContentView
+__OBJC_METACLASS_RO_$_RFSLivenessRetryContentView
+__OBJC_$_INSTANCE_METHODS_RFSLivenessRetryContentView
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessRetryContentView
+__OBJC_$_PROP_LIST_RFSLivenessRetryContentView
+__OBJC_CLASS_RO_$_RFSLivenessRetryContentView
+Sources/Modules/UILiveness/Retry/RFSLivenessRetryContentView.m
+-[RFSLivenessAPIRequest init]
+-[RFSLivenessAPIRequest initWithNormalFace:scaledFace:normalLandmarks:scaledLandmarks:invalidFormats:format:guid:attempt:]
+-[RFSLivenessAPIRequest path]
+-[RFSLivenessAPIRequest urlParameters]
+-[RFSLivenessAPIRequest method]
+-[RFSLivenessAPIRequest headers]
+-[RFSLivenessAPIRequest task]
+-[RFSLivenessAPIRequest depthDataToNSData:]
+-[RFSLivenessAPIRequest depthDataToJSON:]
+-[RFSLivenessAPIRequest resolvedCameraFormatToJSON:]
+-[RFSLivenessAPIRequest makeRequestData]
+-[RFSLivenessAPIRequest mapLandmark:]
+-[RFSLivenessAPIRequest mapLandmarks:]
++[RFSLivenessAPIRequest IntToNSData:]
+-[RFSLivenessAPIRequest encodeData:withKey:]
+-[RFSLivenessAPIRequest normalFace]
+-[RFSLivenessAPIRequest setNormalFace:]
+-[RFSLivenessAPIRequest scaledFace]
+-[RFSLivenessAPIRequest setScaledFace:]
+-[RFSLivenessAPIRequest guid]
+-[RFSLivenessAPIRequest setGuid:]
+-[RFSLivenessAPIRequest normalLandmarks]
+-[RFSLivenessAPIRequest setNormalLandmarks:]
+-[RFSLivenessAPIRequest scaledLandmarks]
+-[RFSLivenessAPIRequest setScaledLandmarks:]
+-[RFSLivenessAPIRequest invalidFormats]
+-[RFSLivenessAPIRequest setInvalidFormats:]
+-[RFSLivenessAPIRequest format]
+-[RFSLivenessAPIRequest setFormat:]
+-[RFSLivenessAPIRequest attempt]
+-[RFSLivenessAPIRequest setAttempt:]
+-[RFSLivenessAPIRequest jpegCompressionQuality]
+-[RFSLivenessAPIRequest .cxx_destruct]
+_OBJC_IVAR_$_RFSLivenessAPIRequest._normalFace
+_OBJC_IVAR_$_RFSLivenessAPIRequest._scaledFace
+_OBJC_IVAR_$_RFSLivenessAPIRequest._normalLandmarks
+_OBJC_IVAR_$_RFSLivenessAPIRequest._scaledLandmarks
+_OBJC_IVAR_$_RFSLivenessAPIRequest._invalidFormats
+_OBJC_IVAR_$_RFSLivenessAPIRequest._format
+_OBJC_IVAR_$_RFSLivenessAPIRequest._guid
+_OBJC_IVAR_$_RFSLivenessAPIRequest._attempt
+_OBJC_IVAR_$_RFSLivenessAPIRequest._jpegCompressionQuality
+_OBJC_CLASSLIST_REFERENCES_$_.110
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.192
+__OBJC_$_CLASS_METHODS_RFSLivenessAPIRequest
+__OBJC_METACLASS_RO_$_RFSLivenessAPIRequest
+__OBJC_$_INSTANCE_METHODS_RFSLivenessAPIRequest
+__OBJC_$_INSTANCE_VARIABLES_RFSLivenessAPIRequest
+__OBJC_$_PROP_LIST_RFSLivenessAPIRequest
+__OBJC_CLASS_RO_$_RFSLivenessAPIRequest
+Sources/Services/API/Requests/Liveness/RFSLivenessAPIRequest.m
+Sources/Services/API/Requests/Liveness/RFSLivenessAPIRequest.h
+-[RFSBackendError initWithBackendErrorCode:userInfo:]
+-[RFSBackendError initWithBackendErrorCode:]
++[RFSBackendError decodeFromJSON:]
++[RFSBackendError tryParsingCodeField:json:]
++[RFSBackendError tryParsingMessageField:json:]
+-[RFSBackendError backendErrorCode]
+_OBJC_IVAR_$_RFSBackendError._backendErrorCode
+__OBJC_$_CLASS_METHODS_RFSBackendError
+__OBJC_METACLASS_RO_$_RFSBackendError
+__OBJC_$_INSTANCE_METHODS_RFSBackendError
+__OBJC_$_INSTANCE_VARIABLES_RFSBackendError
+__OBJC_$_PROP_LIST_RFSBackendError
+__OBJC_CLASS_RO_$_RFSBackendError
+Sources/Errors/RFSBackendError.m
+Sources/Errors/RFSBackendError.h
+RFSBackendErrorHasErrorCode
+-[RFSDispatchThrottle dispatchThrottle:onQueue:block:]
+-[RFSDispatchThrottle timer]
+-[RFSDispatchThrottle setTimer:]
+-[RFSDispatchThrottle .cxx_destruct]
+__OBJC_METACLASS_RO_$_RFSDispatchThrottle
+__OBJC_$_INSTANCE_METHODS_RFSDispatchThrottle
+_OBJC_IVAR_$_RFSDispatchThrottle._timer
+__OBJC_$_INSTANCE_VARIABLES_RFSDispatchThrottle
+__OBJC_$_PROP_LIST_RFSDispatchThrottle
+__OBJC_CLASS_RO_$_RFSDispatchThrottle
+Sources/Core/RFSDispatchThrottle.m

@@ -1,0 +1,25 @@
+PODS:
+  - DocumentReader (6.6.2753):
+    - RegulaCommon (= 6.6.203)
+  - FaceSDK (4.1.1217):
+    - RegulaCommon (= 6.6.203)
+  - RegulaCommon (6.6.203)
+
+DEPENDENCIES:
+  - DocumentReader
+  - FaceSDK
+
+SPEC REPOS:
+  trunk:
+    - DocumentReader
+    - FaceSDK
+    - RegulaCommon
+
+SPEC CHECKSUMS:
+  DocumentReader: 1162aaa43f028fb63a9c50a197b4d7cebd99d404
+  FaceSDK: b62d5cefa0b62241be52f9874479b07bf506e8f8
+  RegulaCommon: 5a2b9c9c24f45451532ee074e52a1450e328bd38
+
+PODFILE CHECKSUM: 1952ef99422262a44a49b74003d5da4161120133
+
+COCOAPODS: 1.11.3
