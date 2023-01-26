@@ -48,12 +48,18 @@ public class IdentificationActivityViewController: UIViewController {
             DocReader.shared.functionality.onlineProcessingConfig = config
 
             DocReader.shared.showScanner(topMostViewController!) { action, result, error in
+                if action == .processOnServer || action == .process {
+                    return
+                }
+
                 if action == .complete && result != nil{
                     self.handleDocumentReaderResult(result: result!)
+                    return
                 }
                 
                 else {
                     self.completion(nil, error?.localizedDescription ?? "Something went wrong during the document scan.")
+                    return
                 }
             }
         }
