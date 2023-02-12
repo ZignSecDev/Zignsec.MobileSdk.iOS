@@ -13,6 +13,7 @@ public class IdentificationActivityViewController: UIViewController {
     var completion: ZignSecIdentificationActivityCompletion = { result, error in
         return
     }
+    var spinnerViewController: SpinnerViewController? = nil
     
     
     static func makeIdentificationActivityViewController(environment: ZignSecEnvironment, sessionId: String, accessToken: String, completion: @escaping ZignSecIdentificationActivityCompletion) -> IdentificationActivityViewController {
@@ -22,11 +23,50 @@ public class IdentificationActivityViewController: UIViewController {
         newViewController.environment = environment
         newViewController.urlInterceptingDelegate = ZignSecUrlRequestInterceptingDelegate(accessToken: accessToken, sessionId: sessionId)
         newViewController.completion = completion
+        newViewController.spinnerViewController = SpinnerViewController()
         return newViewController
     }
     
+    private func startSpinner(){
+        DispatchQueue.main.async {
+            let child = self.spinnerViewController!
+            self.addChild(child)
+            child.view.frame = self.view.frame
+            self.view.addSubview(child.view)
+            child.didMove(toParent: self)
+        }
+    }
+
+    private func stopSpinner(){
+        DispatchQueue.main.async {
+            let child = self.spinnerViewController!
+            child.willMove(toParent: nil)
+            child.view.removeFromSuperview()
+            child.removeFromParent()
+        }
+    }
+    
+    private func setup(){
+        let config = DocReader.OnlineProcessingConfig(mode: .manual)
+        
+        config.serviceURL = self.environment.rawValue + "/proxy/docs"
+        
+        config.requestInterceptingDelegate = urlInterceptingDelegate
+        
+        let processParams = ProcessParams()
+        processParams.dateFormat = "yyyy-MM-dd"
+        processParams.scenario = RGL_SCENARIO_FULL_PROCESS
+        config.processParams = processParams
+        
+        DocReader.shared.functionality.manualMultipageMode = true
+        DocReader.shared.processParams.multipageProcessing = false
+
+        DocReader.shared.functionality.onlineProcessingConfig = config
+    }
+
     public override func viewDidLoad() {
         super.viewDidLoad()
+        setup()
         startCapture()
     }
     
@@ -34,25 +74,20 @@ public class IdentificationActivityViewController: UIViewController {
         if let window = UIApplication.shared.connectedScenes.map({ $0 as? UIWindowScene }).compactMap({ $0 }).first?.windows.first {
             let topMostViewController = window.rootViewController
             
-            let config = DocReader.OnlineProcessingConfig(mode: .manual)
             
-            config.serviceURL = self.environment.rawValue + "/proxy/docs"
-            
-            config.requestInterceptingDelegate = urlInterceptingDelegate
-            
-            let processParams = ProcessParams()
-            processParams.dateFormat = "yyyy-MM-dd"
-            processParams.scenario = RGL_SCENARIO_FULL_PROCESS
-            config.processParams = processParams
-            
-            DocReader.shared.functionality.onlineProcessingConfig = config
-
             DocReader.shared.showScanner(topMostViewController!) { action, result, error in
                 if action == .processOnServer || action == .process {
                     return
                 }
-
+                
                 if action == .complete && result != nil{
+                    if result!.morePagesAvailable != 0 {
+                        DocReader.shared.startNewPage()
+                        DocReader.shared.customization.status = "A Two-Sided document has been detected. Please take a photo of the other side."
+                        self.startCapture()
+                        return
+                    }
+                    
                     self.handleDocumentReaderResult(result: result!)
                     return
                 }
@@ -88,16 +123,23 @@ public class IdentificationActivityViewController: UIViewController {
     }
     
     func handleDocumentReaderResult(result: DocumentReaderResults) {
+        self.startSpinner()
+
         let zignsecDocumentReaderResult = parseSessionResponse(rawResult: result.rawResult)
         
         if zignsecDocumentReaderResult?.result?.documentAnalysis?.status == ZignSecDocumentAnalysisStatus.accepted && zignsecDocumentReaderResult?.result?.livenessAnalysis?.status == ZignSecLivenessAnalysisStatus.requested {
+            self.stopSpinner()
             self.startLiveness(documentReaderResult: result)
         } else {
+            self.stopSpinner()
             self.completion(zignsecDocumentReaderResult, nil)
+            
         }
     }
     
     func failLiveness(livenessResponse: LivenessResponse) -> Void {
+        self.startSpinner()
+
         let configuration = URLSessionConfiguration.default
         configuration.timeoutIntervalForRequest = 60
         configuration.timeoutIntervalForResource = 60
@@ -118,6 +160,7 @@ public class IdentificationActivityViewController: UIViewController {
         do {
             request.httpBody = try JSONSerialization.data(withJSONObject: parameters, options: .prettyPrinted)
         } catch let error {
+            self.stopSpinner()
             self.completion(nil, error.localizedDescription)
             return
         }
@@ -125,11 +168,13 @@ public class IdentificationActivityViewController: UIViewController {
         let task = session.dataTask(with: request as URLRequest, completionHandler: { data, response, error in
             
             if error != nil || data == nil {
+                self.stopSpinner()
                 self.completion(nil, error?.localizedDescription ?? "Something went wrong during Liveness.")
                 return
             }
             
             guard let response = response as? HTTPURLResponse, (200...299).contains(response.statusCode) else {
+                self.stopSpinner()
                 self.completion(nil, error?.localizedDescription ?? "A Network Error occured during Liveness.")
                 return
             }
@@ -138,6 +183,7 @@ public class IdentificationActivityViewController: UIViewController {
                 let decoder = JSONDecoder()
 
                 if let zignsecSessionResponse = try? decoder.decode(ZignSecIdentificationSessionResult.self, from: data!) {
+                    self.stopSpinner()
                     self.completion(zignsecSessionResponse, nil)
                     return
                 }
@@ -148,6 +194,9 @@ public class IdentificationActivityViewController: UIViewController {
     }
     
     func finaliseLiveness(livenessResponse: LivenessResponse) -> Void {
+        
+        self.startSpinner()
+
         let base64Image = livenessResponse.image!.jpegData(compressionQuality: 1)?.base64EncodedString()
         
         let configuration = URLSessionConfiguration.default
@@ -171,16 +220,19 @@ public class IdentificationActivityViewController: UIViewController {
         do {
             request.httpBody = try JSONSerialization.data(withJSONObject: parameters, options: .prettyPrinted)
         } catch let error {
+            self.stopSpinner()
             self.completion(nil, error.localizedDescription)
         }
         
         let task = session.dataTask(with: request as URLRequest, completionHandler: { data, response, error in
             
             if error != nil || data == nil {
+                self.stopSpinner()
                 self.completion(nil, "Network Error.")
             }
             
             guard let response = response as? HTTPURLResponse, (200...299).contains(response.statusCode) else {
+                self.stopSpinner()
                 self.completion(nil, "Network Error.")
                 return
             }
@@ -189,6 +241,7 @@ public class IdentificationActivityViewController: UIViewController {
                 let decoder = JSONDecoder()
 
                 if let zignsecSessionResponse = try? decoder.decode(ZignSecIdentificationSessionResult.self, from: data!) {
+                    self.stopSpinner()
                     self.completion(zignsecSessionResponse, nil)
                 }
             }

@@ -29,6 +29,7 @@
 		349512ED29810FE60013673A /* ZignSecDocumentAnalysisStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512EC29810FE60013673A /* ZignSecDocumentAnalysisStatus.swift */; };
 		349512EF298110550013673A /* ZignSecLivenessAnalysisStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512EE298110540013673A /* ZignSecLivenessAnalysisStatus.swift */; };
 		34CC6464297FACAB004D6FE1 /* MobileSdk_iOS_Framework.h in Headers */ = {isa = PBXBuildFile; fileRef = 34CC6463297FACAB004D6FE1 /* MobileSdk_iOS_Framework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		34E978112997FA8800BC04B5 /* SpinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E9780F2997FA8800BC04B5 /* SpinnerViewController.swift */; };
 		4D2FC483E9FA7F2B079AC3CF /* Pods_MobileSdk_iOS_Framework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4D5C7ABF75B8F802281437C /* Pods_MobileSdk_iOS_Framework.framework */; };
 /* End PBXBuildFile section */
 
@@ -81,6 +82,7 @@
 		34CC6460297FACAB004D6FE1 /* MobileSdk_iOS_Framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MobileSdk_iOS_Framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		34CC6463297FACAB004D6FE1 /* MobileSdk_iOS_Framework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MobileSdk_iOS_Framework.h; sourceTree = "<group>"; };
 		34CC64AA297FAD1F004D6FE1 /* MobileSdk.iOS.SampleApp.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MobileSdk.iOS.SampleApp.xcodeproj; path = ../MobileSdk.iOS.SampleApp/MobileSdk.iOS.SampleApp.xcodeproj; sourceTree = "<group>"; };
+		34E9780F2997FA8800BC04B5 /* SpinnerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpinnerViewController.swift; sourceTree = "<group>"; };
 		6EFE1D93A5F2EF6D88CD6A19 /* Pods-MobileSdk.iOS.Framework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileSdk.iOS.Framework.debug.xcconfig"; path = "Target Support Files/Pods-MobileSdk.iOS.Framework/Pods-MobileSdk.iOS.Framework.debug.xcconfig"; sourceTree = "<group>"; };
 		F4D5C7ABF75B8F802281437C /* Pods_MobileSdk_iOS_Framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MobileSdk_iOS_Framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -148,6 +150,7 @@
 		349512DB29805B3C0013673A /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				34E9780F2997FA8800BC04B5 /* SpinnerViewController.swift */,
 				349512C7297FAEA90013673A /* IdentificationActivityViewController.swift */,
 			);
 			path = ViewController;
@@ -337,6 +340,7 @@
 				349512DF2980613C0013673A /* ZignSecDocumentAnalysis.swift in Sources */,
 				349512CE297FB5F90013673A /* IdentificationActivityView.swift in Sources */,
 				349512D7298046580013673A /* ZignSecIdentity.swift in Sources */,
+				34E978112997FA8800BC04B5 /* SpinnerViewController.swift in Sources */,
 				349512E7298105180013673A /* ZignSecIdentificationSessionResponse.swift in Sources */,
 				349512E3298061AD0013673A /* ZignSecFaceMatchAnalysis.swift in Sources */,
 				349512C8297FAEA90013673A /* IdentificationActivityViewController.swift in Sources */,
