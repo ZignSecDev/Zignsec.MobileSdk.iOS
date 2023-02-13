@@ -73,10 +73,10 @@ public class IdentificationActivityViewController: UIViewController {
     public func startCapture() {
         if let window = UIApplication.shared.connectedScenes.map({ $0 as? UIWindowScene }).compactMap({ $0 }).first?.windows.first {
             let topMostViewController = window.rootViewController
-            
-            DocReader.shared.showScanner(topMostViewController!) { action, result, error in
-                DocReader.shared.customization.showStatusMessages = false
 
+            DocReader.shared.showScanner(topMostViewController!) { action, result, error in
+            DocReader.shared.customization.status = nil
+                
                 if action == .processOnServer || action == .process {
                     return
                 }
