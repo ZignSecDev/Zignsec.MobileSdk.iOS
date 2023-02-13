@@ -74,8 +74,9 @@ public class IdentificationActivityViewController: UIViewController {
         if let window = UIApplication.shared.connectedScenes.map({ $0 as? UIWindowScene }).compactMap({ $0 }).first?.windows.first {
             let topMostViewController = window.rootViewController
             
-            
             DocReader.shared.showScanner(topMostViewController!) { action, result, error in
+                DocReader.shared.customization.showStatusMessages = false
+
                 if action == .processOnServer || action == .process {
                     return
                 }
@@ -86,7 +87,7 @@ public class IdentificationActivityViewController: UIViewController {
                         DocReader.shared.customization.status = "A Two-Sided document has been detected. Please take a photo of the other side."
                         self.startCapture()
                         return
-                    }
+                    } 
                     
                     self.handleDocumentReaderResult(result: result!)
                     return
