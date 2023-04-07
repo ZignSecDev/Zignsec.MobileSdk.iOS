@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		341A3EA329DFF7490071157F /* ZignsecIdentificationResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341A3EA229DFF7490071157F /* ZignsecIdentificationResultsView.swift */; };
+		341A3EA529DFFB880071157F /* ZignSecContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341A3EA429DFFB880071157F /* ZignSecContentView.swift */; };
 		349512C2297FAE5E0013673A /* MobileSdk_iOS_Framework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 349512C1297FAE5E0013673A /* MobileSdk_iOS_Framework.framework */; };
 		349512C3297FAE5E0013673A /* MobileSdk_iOS_Framework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 349512C1297FAE5E0013673A /* MobileSdk_iOS_Framework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		34CC6498297FAD1E004D6FE1 /* MobileSdk_iOS_SampleAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CC6497297FAD1E004D6FE1 /* MobileSdk_iOS_SampleAppApp.swift */; };
@@ -30,6 +32,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		341A3EA229DFF7490071157F /* ZignsecIdentificationResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZignsecIdentificationResultsView.swift; sourceTree = "<group>"; };
+		341A3EA429DFFB880071157F /* ZignSecContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZignSecContentView.swift; sourceTree = "<group>"; };
 		349512C1297FAE5E0013673A /* MobileSdk_iOS_Framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MobileSdk_iOS_Framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		349512CF297FBA590013673A /* MobileSdk-iOS-SampleApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "MobileSdk-iOS-SampleApp-Info.plist"; sourceTree = SOURCE_ROOT; };
 		34CC6494297FAD1E004D6FE1 /* MobileSdk.iOS.SampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileSdk.iOS.SampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +88,8 @@
 				34CC649B297FAD1F004D6FE1 /* Assets.xcassets */,
 				34CC64A2297FAD1F004D6FE1 /* MobileSdk_iOS_SampleApp.xcdatamodeld */,
 				34CC649D297FAD1F004D6FE1 /* Preview Content */,
+				341A3EA229DFF7490071157F /* ZignsecIdentificationResultsView.swift */,
+				341A3EA429DFFB880071157F /* ZignSecContentView.swift */,
 			);
 			path = MobileSdk.iOS.SampleApp;
 			sourceTree = "<group>";
@@ -168,6 +174,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				34CC64A4297FAD1F004D6FE1 /* MobileSdk_iOS_SampleApp.xcdatamodeld in Sources */,
+				341A3EA329DFF7490071157F /* ZignsecIdentificationResultsView.swift in Sources */,
+				341A3EA529DFFB880071157F /* ZignSecContentView.swift in Sources */,
 				34CC6498297FAD1E004D6FE1 /* MobileSdk_iOS_SampleAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

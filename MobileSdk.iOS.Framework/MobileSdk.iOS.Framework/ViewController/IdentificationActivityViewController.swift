@@ -256,7 +256,6 @@ public class IdentificationActivityViewController: UIViewController {
             $0.cameraPosition = .front
             $0.isCameraSwitchButtonEnabled = true
         }
-        
         FaceSDK.service.serviceURL = self.environment.rawValue + "/proxy/faceapi"
         
         FaceSDK.service.requestInterceptingDelegate = self.urlInterceptingDelegate

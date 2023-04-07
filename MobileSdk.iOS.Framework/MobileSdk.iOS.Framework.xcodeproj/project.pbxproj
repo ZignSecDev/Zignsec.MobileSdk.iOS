@@ -7,12 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		349512B8297FAE360013673A /* DocumentReader.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B5297FAE360013673A /* DocumentReader.xcframework */; };
-		349512B9297FAE360013673A /* DocumentReader.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B5297FAE360013673A /* DocumentReader.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		349512BA297FAE360013673A /* FaceSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B6297FAE360013673A /* FaceSDK.xcframework */; };
-		349512BB297FAE360013673A /* FaceSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B6297FAE360013673A /* FaceSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		349512BC297FAE360013673A /* RegulaCommon.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B7297FAE360013673A /* RegulaCommon.xcframework */; };
-		349512BD297FAE360013673A /* RegulaCommon.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 349512B7297FAE360013673A /* RegulaCommon.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		341A3E9A29DF158D0071157F /* DocumentReader.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9529DF14900071157F /* DocumentReader.xcframework */; };
+		341A3E9B29DF158D0071157F /* DocumentReader.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9529DF14900071157F /* DocumentReader.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		341A3E9C29DF158E0071157F /* FaceSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9329DF148F0071157F /* FaceSDK.xcframework */; };
+		341A3E9D29DF158F0071157F /* FaceSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9329DF148F0071157F /* FaceSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		341A3E9E29DF15900071157F /* RegulaCommon.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9429DF148F0071157F /* RegulaCommon.xcframework */; };
+		341A3E9F29DF15900071157F /* RegulaCommon.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 341A3E9429DF148F0071157F /* RegulaCommon.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		341A3EA029DF15930071157F /* MobileSdk_iOS_Framework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34CC6460297FACAB004D6FE1 /* MobileSdk_iOS_Framework.framework */; };
 		349512C8297FAEA90013673A /* IdentificationActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512C7297FAEA90013673A /* IdentificationActivityViewController.swift */; };
 		349512CA297FB0BF0013673A /* ZignSecUrlRequestInterceptingDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512C9297FB0BF0013673A /* ZignSecUrlRequestInterceptingDelegate.swift */; };
 		349512CC297FB2D40013673A /* ZignSecEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512CB297FB2D40013673A /* ZignSecEnvironment.swift */; };
@@ -30,7 +31,6 @@
 		349512EF298110550013673A /* ZignSecLivenessAnalysisStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349512EE298110540013673A /* ZignSecLivenessAnalysisStatus.swift */; };
 		34CC6464297FACAB004D6FE1 /* MobileSdk_iOS_Framework.h in Headers */ = {isa = PBXBuildFile; fileRef = 34CC6463297FACAB004D6FE1 /* MobileSdk_iOS_Framework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		34E978112997FA8800BC04B5 /* SpinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E9780F2997FA8800BC04B5 /* SpinnerViewController.swift */; };
-		4D2FC483E9FA7F2B079AC3CF /* Pods_MobileSdk_iOS_Framework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4D5C7ABF75B8F802281437C /* Pods_MobileSdk_iOS_Framework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,15 +44,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		349512BE297FAE360013673A /* Embed Frameworks */ = {
+		341A3E8329DF13950071157F /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				349512B9297FAE360013673A /* DocumentReader.xcframework in Embed Frameworks */,
-				349512BD297FAE360013673A /* RegulaCommon.xcframework in Embed Frameworks */,
-				349512BB297FAE360013673A /* FaceSDK.xcframework in Embed Frameworks */,
+				341A3E9B29DF158D0071157F /* DocumentReader.xcframework in Embed Frameworks */,
+				341A3E9F29DF15900071157F /* RegulaCommon.xcframework in Embed Frameworks */,
+				341A3E9D29DF158F0071157F /* FaceSDK.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -61,9 +61,9 @@
 
 /* Begin PBXFileReference section */
 		132E41ABD8E6FEDD92634B8A /* Pods-MobileSdk.iOS.Framework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileSdk.iOS.Framework.release.xcconfig"; path = "Target Support Files/Pods-MobileSdk.iOS.Framework/Pods-MobileSdk.iOS.Framework.release.xcconfig"; sourceTree = "<group>"; };
-		349512B5297FAE360013673A /* DocumentReader.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = DocumentReader.xcframework; path = Pods/DocumentReader/DocumentReader.xcframework; sourceTree = "<group>"; };
-		349512B6297FAE360013673A /* FaceSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FaceSDK.xcframework; path = Pods/FaceSDK/FaceSDK.xcframework; sourceTree = "<group>"; };
-		349512B7297FAE360013673A /* RegulaCommon.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = RegulaCommon.xcframework; path = Pods/RegulaCommon/RegulaCommon.xcframework; sourceTree = "<group>"; };
+		341A3E9329DF148F0071157F /* FaceSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceSDK.xcframework; sourceTree = "<group>"; };
+		341A3E9429DF148F0071157F /* RegulaCommon.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RegulaCommon.xcframework; sourceTree = "<group>"; };
+		341A3E9529DF14900071157F /* DocumentReader.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = DocumentReader.xcframework; sourceTree = "<group>"; };
 		349512C7297FAEA90013673A /* IdentificationActivityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentificationActivityViewController.swift; sourceTree = "<group>"; };
 		349512C9297FB0BF0013673A /* ZignSecUrlRequestInterceptingDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZignSecUrlRequestInterceptingDelegate.swift; sourceTree = "<group>"; };
 		349512CB297FB2D40013673A /* ZignSecEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZignSecEnvironment.swift; sourceTree = "<group>"; };
@@ -84,7 +84,6 @@
 		34CC64AA297FAD1F004D6FE1 /* MobileSdk.iOS.SampleApp.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MobileSdk.iOS.SampleApp.xcodeproj; path = ../MobileSdk.iOS.SampleApp/MobileSdk.iOS.SampleApp.xcodeproj; sourceTree = "<group>"; };
 		34E9780F2997FA8800BC04B5 /* SpinnerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpinnerViewController.swift; sourceTree = "<group>"; };
 		6EFE1D93A5F2EF6D88CD6A19 /* Pods-MobileSdk.iOS.Framework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileSdk.iOS.Framework.debug.xcconfig"; path = "Target Support Files/Pods-MobileSdk.iOS.Framework/Pods-MobileSdk.iOS.Framework.debug.xcconfig"; sourceTree = "<group>"; };
-		F4D5C7ABF75B8F802281437C /* Pods_MobileSdk_iOS_Framework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MobileSdk_iOS_Framework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,10 +91,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				349512BC297FAE360013673A /* RegulaCommon.xcframework in Frameworks */,
-				4D2FC483E9FA7F2B079AC3CF /* Pods_MobileSdk_iOS_Framework.framework in Frameworks */,
-				349512B8297FAE360013673A /* DocumentReader.xcframework in Frameworks */,
-				349512BA297FAE360013673A /* FaceSDK.xcframework in Frameworks */,
+				341A3E9E29DF15900071157F /* RegulaCommon.xcframework in Frameworks */,
+				341A3E9A29DF158D0071157F /* DocumentReader.xcframework in Frameworks */,
+				341A3EA029DF15930071157F /* MobileSdk_iOS_Framework.framework in Frameworks */,
+				341A3E9C29DF158E0071157F /* FaceSDK.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,10 +104,9 @@
 		04781F9B0ABD3CA7E749A88C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				349512B5297FAE360013673A /* DocumentReader.xcframework */,
-				349512B6297FAE360013673A /* FaceSDK.xcframework */,
-				349512B7297FAE360013673A /* RegulaCommon.xcframework */,
-				F4D5C7ABF75B8F802281437C /* Pods_MobileSdk_iOS_Framework.framework */,
+				341A3E9429DF148F0071157F /* RegulaCommon.xcframework */,
+				341A3E9329DF148F0071157F /* FaceSDK.xcframework */,
+				341A3E9529DF14900071157F /* DocumentReader.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -228,7 +226,7 @@
 				34CC645C297FACAB004D6FE1 /* Sources */,
 				34CC645D297FACAB004D6FE1 /* Frameworks */,
 				34CC645E297FACAB004D6FE1 /* Resources */,
-				349512BE297FAE360013673A /* Embed Frameworks */,
+				341A3E8329DF13950071157F /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
